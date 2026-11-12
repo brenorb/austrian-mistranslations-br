@@ -1,0 +1,311 @@
+### 1. [whgd] CONCEPT_INJECTION (severity 5/5)
+
+The case in JP Mayall's tweet. The English has ONE sentence here (26 words: 'It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange'). The Portuguese has two (62 words). Sentence 1 drops the word 'abstract', which carries Rothbard's point (the preceding chapter text says 'Money is not an abstract unit of account, divorceable from a concrete good'). Sentence 2 is invented: that unit of account and 'reserva de valor' (store of value) 'derive' from the exchange function. 'Store of value' occurs once in the whole English book, in a different passage where Rothbard dismisses the textbook list of 'functions' as mere aspects of the medium-of-exchange function.
+
+> **EN:** It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange. T HE M ONETARY U NIT
+>
+> **PT:** É importante entender que o dinheiro só pode ser visto como uma unidade de conta ou como um título de reivindicação sobre bens a partir do momento em que ele passa a servir como um meio de troca. É de sua função como meio de troca que derivam todas as suas outras características, como ser unidade de conta e reserva de valor. A unidade monetária
+
+### 2. [whgd] ANACHRONISM (severity 5/5)
+
+English: 'If the banks keep a reserve/deposit ratio of 1:10, then excess reserves of ten million dollars will permit and encourage a nationwide bank inflation of one hundred million' (34 words). Portuguese: 101 words in three sentences; adds a parenthetical gloss ('...all the rest is purely electronic money, with no backing') and a new worked example with $1,000,000 / $10,000,000. The English book contains the word 'electronic' zero times; the book was written in 1963.
+
+> **EN:** The Central Bank can stimulate inflation, then, by pouring reserves into the banking system, and also by lowering the reserve ratio, thus permitting a nationwide bank credit expansion. If the banks keep a reserve/deposit ratio of 1:10, then “excess reserves” (above the required ratio) of ten million dollars will permit and encourage a nationwide bank inflation of one hundred million. Since banks profit by credit expansion, and since government has made it almost impossible for them to fail, they will usually try to keep “loaned up” to their allowable maximum.
+>
+> **PT:** O Banco Central, desta forma, pode estimular a inflação injetando reservas no sistema bancário. Pode também reduzir a taxa do compulsório, permitindo assim uma maior expansão creditícia dos bancos. Se os bancos são requeridos a manter um compulsório de 10% (o que significa que para cada $100.000.000 em depósitos bancários há apenas $10.000.000 em reservas bancárias; todo o resto é dinheiro puramente eletrônico, sem nenhum lastro), então qualquer valor em reservas que exceda estes 10% permitirá uma nova rodada de inflação monetária. Se houver, por exemplo, uma quantia excedente de $1.000.000 nas reservas bancárias, tal valor permitirá a criação de empréstimos (inflação monetária) no valor de $10.000.000. Dado que os bancos lucram com a expansão de crédito, e dado que o governo os tornou quase imunes à falência, eles estarão sempre se esforçando para criar crédito até o limite máximo permitido.
+
+### 3. [whgd] CONCEPT_INJECTION (severity 4/5)
+
+Inserted generalisation: 'All demand for money exists because people can use that good to calculate prices.' Not in the English. It also shifts the emphasis of Rothbard's regression-theorem argument (demand for money arises from the exchange function added to previous non-monetary demand) towards price-calculation.
+
+> **EN:** Money cannot originate in any other way, neither by everyone suddenly deciding to create money out of useless material, nor by government calling bits of paper “money.” For embedded in the demand for money is knowledge of the money prices of the immediate past; in contrast to directly-used consumers’ or producers’ goods, money must have pre-existing prices on which to ground a demand.
+>
+> **PT:** O dinheiro não pode se originar de nenhuma outra maneira: mesmo que as pessoas repentinamente decidam criar dinheiro utilizando materiais inúteis, ou o governo decrete que determinados pedaços de papel agora são “dinheiro”, nada disso pode funcionar se o bem estipulado não possuir um histórico como meio de troca. Toda e qualquer demanda por dinheiro ocorre porque as pessoas podem utilizar aquele bem para calcular preços. Incorporado na demanda pelo dinheiro está o conhecimento dos preços do passado imediato. Ao contrário dos bens diretamente utilizados pelos consumidores e pelos empreendedores, a mercadoria a ser utilizada como dinheiro tem de apresentar um histórico de expressão de valores na forma de preços. Antes de tal produto ser definido como dinheiro, ele tem de possuir um passado no qual ele foi utilizado como definidor de preços.
+
+### 4. [whgd] CONCEPT_INJECTION (severity 4/5)
+
+~60-word block of new didactic macroeconomics with no English counterpart (best semantic match anywhere in the English book: cosine 0.55): 'an increase in the quantity of goods and services increases the purchasing power of money ... if one sector is more productive than another its prices will fall more ...'.
+
+> **EN:** 
+>
+> **PT:** Mas isso, como já vimos, é uma impossibilidade. Um aumento na quantidade de bens e serviços aumenta o poder de compra do dinheiro. Uma redução nessa quantidade diminui o poder de compra. Se um determinado setor da economia é mais produtivo do que outro setor, seus preços cairão mais. Da mesma forma, uma simples alteração nas preferências dos indivíduos por determinados bens e serviços pode alterar os preços de toda a economia.
+
+### 5. [whgd] CONCEPT_INJECTION (severity 4/5)
+
+~100-word block on productivity, falling prices and living standards inserted in the section on stabilising the price level. Grepping the English book for 'more productive', 'fixed measure', 'rise in living standards', 'prices (and costs)' returns nothing.
+
+> **EN:** 
+>
+> **PT:** Com efeito, a estabilização artificial do valor do dinheiro iria distorcer e afetar seriamente as atividades do mercado. Como já aludimos na seção anterior, as pessoas inevitavelmente teriam frustrados seus desejos de alterar a real proporção de seus encaixes; não haveria nenhuma oportunidade de alterar seus encaixes em relação aos preços. No que mais, um genuíno aumento no padrão de vida das pessoas decorre de investimentos em capital, o que aumenta a produtividade. E um aumento na produtividade tende a reduzir os preços (e os custos) e, por conseguinte, a distribuir os frutos da livre iniciativa para todo o público, elevando o padrão de vida de todos os consumidores. Aumentar forçadamente o nível dos preços impede essa disseminação de um padrão de vida mais elevado.
+
+### 6. [whgd] POLEMIC_INSERTION (severity 4/5)
+
+Chapter IV is headed by three new sentences not in Rothbard: 'since the West abandoned the classical gold standard in 1914 the international monetary system has oscillated between a bad system and a worse one. Countries adopt fixed exchange rates and soon regret it ... Others prefer an amorphous system.' Editorial voice, unmarked.
+
+> **EN:** The Monetary Breakdown of the West
+>
+> **PT:** O Colapso Monetário do Ocidente Desde que o Ocidente abandonou o padrão-ouro clássico (em que as transações eram feitas em moedas de ouro ou em certificados lastreados 100% em ouro) em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior. Os países adotam câmbios fixos e logo depois se arrependem e retornam para o câmbio flutuante. Alguns fazem o movimento inverso. Outros preferem um sistema amorfo, onde ambos os esquemas são mantidos simultaneamente.
+
+### 7. [whgd] MEANING_SHIFT (severity 3/5)
+
+English: the drive for a European paper currency 'seems on the verge of success. This goal is being sold to the gullible public by the fallacious claim that a free-trade European Economic Community (EEC) necessarily requires an overarching bureaucracy...'. Portuguese: 'Europe is already about to adopt a single paper money' (a flat assertion instead of 'seems on the verge'), and the EEC becomes 'a free-trade area which will be called the EEC' (the claim about the EEC becomes a naming statement), plus an added sentence ('The bureaucrats' idea is to make the public believe...').
+
+> **EN:** Already the world’s major central banks are attempting to “coordinate” monetary and economic policies, harmonize rates of inflation, and fix exchange rates. The militant drive for a European paper currency issued by a European central bank seems on the verge of success. This goal is being sold to the gullible public by the fallacious claim that a free-trade European Economic Community (EEC) necessarily requires an overarching European bureaucracy, a uniformity of taxation throughout the EEC, and, in particular, a European central bank and paper unit.
+>
+> **PT:** Os  principais bancos centrais mundiais já estão tentando “coordenar” suas políticas monetárias e econômicas, harmonizar suas taxas de inflação e fixar suas taxas de câmbio. A Europa já está prestes a adotar um papel-moeda único, emitido por um banco central europeu. Tal objetivo está sendo falaciosamente justificado ao ingênuo público como sendo necessário para a adoção de uma área de livre comércio – que será chamada de Comunidade Econômica Europeia (CEE). A ideia dos burocratas é fazer o público crer que uma área de livre comércio necessariamente requer uma mastodôntica burocracia, uma taxação uniforme por toda a CEE, e, em particular, um banco central europeu e um papel-moeda único.
+
+### 8. [whgd] MEANING_SHIFT (severity 3/5)
+
+English: writers who cite 19th-century America as a horrid example of free banking 'fail to realize the importance of this clear dereliction of duty by the states'. Portuguese: they fail to see 'this explicit state privilege that protected the banks and exempted them from redeeming their notes in specie' (a different claim: a legal privilege rather than the states' dereliction), and glosses 'free banking' in parentheses.
+
+> **EN:** Those writers who point to nineteenth-century America as a horrid example of “free banking,” fail to realize the importance of this clear dereliction of duty by the states in every financial crisis. The governments and the banks persuaded the public of the justice of their acts.
+>
+> **PT:** Aqueles autores que ressaltam os Estados Unidos do século XIX como sendo um péssimo exemplo de “sistema bancário livre” (free banking) são incapazes de perceber a importância deste explícito privilégio estatal que protegia os bancos e os eximia da obrigação de restituir em espécie seus recibos bancários. Os governos e os bancos conseguiram persuadir o público a respeito da justiça de tais atos.
+
+### 9. [whgd] UPDATE_INSERTION (severity 2/5)
+
+Appends 'More recently, hyperinflations devastated the main Latin American countries' to the list of historical hyperinflations; the English list ends with the Chinese and other currencies after WWII.
+
+> **EN:** This condition of hyper-inflation is familiar historically in the assignats of the French Revolution, the Continentals of the American Revolution, and especially the German crisis of 1923, and the Chinese and other currencies after World War II. A final indictment of inflation is that whenever the newly issued money is first used as loans to business, inflation causes the dread “business cycle.”
+>
+> **PT:** Esta situação de hiperinflação foi observada durante a Revolução Francesa com os assignats, durante a Revolução Americana com os continentais e, especialmente, durante a crise alemã de 1923 com o marco. Foi também vivenciada pela China e por outros países após a Segunda Guerra Mundial.22 Mais recentemente, hiperinflações devastaram os principais países da América Latina. Por fim, uma última condenação da inflação é o fato de que, sempre que o dinheiro recém-criado é utilizado para conceder empréstimos, essa inflação gera os pavorosos “ciclos econômicos”.
+
+### 10. [whgd] UPDATE_INSERTION (severity 2/5)
+
+Two inserted sentences ('The figure below shows the evolution of the CPI in the US. From Bretton Woods in 1944 an acceleration begins, strongly intensified after abandonment of the gold standard in 1971') are not in the English edition.
+
+> **EN:** Since the U.S. went completely off gold in August 1971 and established the Friedmanite fluctuating fiat system in March 1973, the United States and the world have suffered the most intense and most sustained bout of peacetime inflation in the history of the world.
+>
+> **PT:** Desde que os Estados Unidos abandonaram completamente o ouro em agosto de 1971 e estabeleceram o friedmaniano sistema de papel-moeda flutuante em março de 1973, os Estados Unidos e o mundo sofreram o mais intenso, o mais constante e o mais prolongado período inflacionário da história mundial. A figura abaixo mostra a evolução do índice de preços ao consumidor nos Estados Unidos. A partir de Bretton Woods, em 1944, já começa a haver uma aceleração, que é fortemente intensificada após o abandono completo do padrão-ouro, em 1971.
+
+### 11. [whgd] DIDACTIC_PADDING (severity 2/5)
+
+Adds the stand-alone thesis 'Gresham's law is valid only when there is government price control on money' between two English sentences that do not state it in this form.
+
+> **EN:** But this formulation rests on a misinterpretation of Gresham’s famous law. The law really says that “money overvalued artificially by government will drive out of circulation artificially undervalued money.”
+>
+> **PT:** Mas essa formulação tem por base a interpretação equivocada da famosa lei de Gresham. A lei de Gresham é válida apenas quando há um controle de preços imposto pelo governo sobre o dinheiro. O que a lei de Gresham realmente diz é que “o dinheiro que está artificialmente sobrevalorizado pelo governo tirará de circulação o dinheiro que está artificialmente subvalorizado”.
+
+### 12. [whgd] DIDACTIC_PADDING (severity 2/5)
+
+English: 'a pyramiding of U.S. [dollars] on gold, of British pounds on dollars...'. Portuguese adds an invented metaphor ('inverted pyramid ... inverted because gold is at the base and dollars on the body'), which is self-contradictory as a metaphor.
+
+> **EN:** And most of these countries were induced by Britain to return to gold at overvalued parities. The result was a pyramiding of U.S. on gold, of British pounds on dollars, and of other European currencies on pounds—the “gold-exchange standard,” with the dollar and the pound as the two “key currencies.” Now when Britain inflated, and experienced a deficit in its balance of payments, the gold standard mechanism did not work to quickly restrict British inflation.
+>
+> **PT:** E a maioria desses países foi induzida pela GrãBretanha a retornar ao ouro a uma paridade sobrevalorizada. O resultado foi que os Estados Unidos criaram uma “pirâmide invertida” de dólares sobre o ouro (a pirâmide é invertida porque na base está o ouro e no corpo estão os dólares), a Grã-Bretanha piramidou suas libras sobre dólares e todas as outras moedas europeias piramidaram sobre libras – esse era o “padrão ourocâmbio”, com o dólar e a libra sendo as duas “moedas-chave”. Sendo assim, quando a Grã-Bretanha inflacionou e, por conseguinte, sofreu um déficit em seu balanço de pagamentos, o mecanismo do padrãoouro não funcionou de modo a restringir rapidamente essa inflação britânica.
+
+### 13. [tragedy_euro] DIDACTIC_PADDING (severity 2/5)
+
+Added explanatory clause ('overvalued because their supply had increased greatly while their gold price stayed fixed').
+
+> **EN:** European countries such as France, Western Germany, Switzerland, and Italy followed a less inflationary monetary policy under the influence of economists familiar with the Austrian school of economics. The gold reserve ratio of the Fed was reduced and overvalued dollars accumulated in European central banks until Charles de Gaulle finally initiated a run, presenting French dollars for gold at the Federal Reserve.
+>
+> **PT:** Países europeus como a França, a Alemanha Ocidental, a Suíça e a Itália adotaram políticas monetárias menos inflacionistas, pois estavam sob a influência de economistas familiarizados com os ensinamentos da Escola Austríaca de economia. As reservas de ouro do Federal Reserve foram diminuindo e os dólares — cada vez mais sobrevalorizados, pois sua oferta havia aumentado sobremaneira, mas seu preço continuava fixo em relação ao ouro — foram se acumulando nos bancos centrais europeus. Até que Charles de Gaulle deu início a uma corrida ao Fed, exigindo que os dólares acumulados pelo banco central francês fossem restituídos em ouro.
+
+### 14. [tragedy_euro] DIDACTIC_PADDING (severity 3/5)
+
+Added 39-word explanation of how trade deficits end in government bonds; absent from the English text.
+
+> **EN:** Greek (or Spanish) government debts are largely held by foreign banks due to their trade deficits. Greeks did not save enough to buy their government debts, but preferred instead to import more goods and services than they exported.
+>
+> **PT:** As dívidas dos governos grego e espanhol estão majoritariamente em posse de bancos estrangeiros por causa de seus déficits comerciais. Isso ocorre porque, quando há um déficit comercial, o país estrangeiro (o exportador) recebe moeda do país importador, a qual ele utiliza para reinvestir neste país importador — e geralmente o investimento se dá em títulos do governo deste país. Os gregos não pouparam o suficiente para poder comprar os títulos da dívida de seu próprio governo, preferindo ao invés disso gastar importando mais bens e serviços do que exportavam.
+
+### 15. [tragedy_euro] DIDACTIC_PADDING (severity 3/5)
+
+A 16-word English sentence becomes ~146 Portuguese words in three sentences (adds the purchasing-power / Deutschmark explanation and a sentence on Italians, Spaniards and Greeks).
+
+> **EN:** The relatively high exchange rates fixed forever in the Euro benefitted high inflation countries as well. Durable consumer goods such as cars or houses were bought, leading to housing booms, the most spectacular of which was in Spain.
+>
+> **PT:** Ao mesmo tempo, as taxas de câmbio fixadas em níveis relativamente altos em toda a zona do euro — o que significa que as moedas dos países inflacionistas se tornaram sobrevalorizadas — beneficiaram estes países inflacionistas, fazendo com que os preços das importações caíssem dramaticamente nos países periféricos. Italianos, espanhóis e gregos — pessoas acostumadas a moedas mais fracas que as de seus vizinhos do norte da Europa — vivenciaram uma poderosa valorização de suas moedas quando houve a convergência monetária no final da década de 1990 e início da década de 2000. Como a adoção do euro significou um valor comum para todas as moedas, e como a economia alemã — com seu poderoso marco alemão — era a que predominava sobre toda a Europa, o resultado foi que esses países periféricos passaram a ter uma unidade monetária com maior poder de compra do que suas moedas locais até então vigentes. Bens de consumo duráveis, como carros e imóveis, passaram a ser adquiridos em maior volume, levando a um acentuado crescimento do setor imobiliário, o mais espetacular deles ocorrendo na Espanha.
+
+### 16. [tragedy_euro] ANACHRONISM (severity 1/5)
+
+Adds a '(electronic or physical)' gloss on how the ECB creates money.
+
+> **EN:** They exchange the money against government bonds and use them to refinance with the ECB.
+>
+> **PT:** Eles adquirem títulos públicos com este dinheiro e os utilizam em operações junto ao BCE. Nessas operações, o BCE cria dinheiro (eletrônico ou físico) e compra os títulos públicos, ou os aceita como colateral, em troca do dinheiro criado do nada. Esse dinheiro vai parar nas reservas dos bancos.
+
+### 17. [agd] UNIT_ERROR (severity 4/5)
+
+'200 million more bushels [of wheat]' becomes '1,6 bilhão de galões de trigo' ('billion gallons of wheat'): the unit is silently converted to a liquid measure that makes no sense for wheat.
+
+> **EN:** Bravely, the GSC bought 200 million more bushels by mid-1931, but all to no avail.
+>
+> **PT:** Bravamente, o GSC comprou mais 1,6 bilhão de galões de trigo em meados de 1931, sem que isso adiantasse de nada.
+
+### 18. [agd] UNIT_ERROR (severity 5/5)
+
+'1.25 million bales' of cotton becomes '280 milhões de toneladas de algodão' (280 million tonnes, roughly three times annual world production). Elsewhere the same translation gives '280 mil toneladas' for the same quantity (three orders of magnitude apart) and for the other bale counts (850,000 bales -> 185 mil toneladas).
+
+> **EN:** The CSC took over 1.25 million bales from the coops.
+>
+> **PT:** A CSC ficou com mais de 280 milhões de toneladas de algodão das cooperativas.
+
+### 19. [agd] UNIT_ERROR (severity 3/5)
+
+'1.3 million bales' -> '280 mil toneladas': bales converted to tonnes without a note, so the numbers no longer match the English table values.
+
+> **EN:** In early 1932, the Board then tried an heroic action—along with its 1.3 million bales, it obtained an agreement from southern bankers to withhold all of their cotton (3.5 million bales), while it continued to finance 2.1 million bales held by the coops.
+>
+> **PT:** No começo de 1932, o FFB tentou uma ação heroica – junto com suas 280 mil toneladas de algodão, conseguiu um acordo dos banqueiros do sul para que eles retivessem todo seu algodão (760 mil toneladas), enquanto continuava a financiar as 460 mil toneladas em poder das cooperativas.
+
+### 20. [agd] NUMERIC_ERROR (severity 3/5)
+
+'the 1921-1933 period' becomes 'o período que vai de 1921 a 1923'.
+
+> **EN:** If we were writing an economic history of the 1921–1933 period, our task would be to try to isolate and explain all the causal threads in the fabric of statistical and other historical events.
+>
+> **PT:** Se estivéssemos escrevendo uma história econômica do período que vai de 1921 a 1923, teríamos de tentar isolar e explicar todos os feixes causais do tecido de estatísticas e dos demais acontecimentos históricos.
+
+### 21. [agd] NUMERIC_ERROR (severity 3/5)
+
+'from $68.25 to $64.72 billion' (a fall of $3.5 billion) becomes 'de US$ 68,25 bilhões para US$ 64,27 bilhões': digits transposed, and the Portuguese sentence now contradicts its own '3,5 bilhões'.
+
+> **EN:** Instead, the money supply fell by $3.5 billion during 1932, from $68.25 to $64.72 billion at the end of the year, and with the bank deposit component falling by $3.2 billion.
+>
+> **PT:** Em vez disso, a oferta monetária caiu US$ 3,5 bilhões durante 1932, de US$ 68,25 bilhões para US$ 64,27 bilhões ao fim do ano, com uma queda de US$ 3,2 bilhões no componente de depósitos bancários.
+
+### 22. [agd] NUMERIC_ERROR (severity 2/5)
+
+'56.1 percent' becomes '51,6%' (digits transposed).
+
+> **EN:** The average part-time proportion for the entire sample was 56.1 percent.
+>
+> **PT:** A proporção média de meio-período para a amostra inteira era de 51,6%.19
+
+### 23. [whgd] UNIT_ERROR (severity 5/5)
+
+'The buyer of a 1/2 inch bolt must get a 1/2 inch bolt and not a mere 3/8 inch.' becomes 'O comprador de um parafuso de 12,7 milímetros (1/2 polegada) deve obter um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros': the same bolt is 12.7 mm and then 12.7 cm (ten times larger), inside one sentence.
+
+> **EN:** The buyer of a 1/2 inch bolt must get a 1/2 inch bolt and not a mere 3/8 inch.
+>
+> **PT:** O comprador de um parafuso de 12,7 milímetros (1/2 polegada) deve obter um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros.
+
+### 24. [whgd] UNMARKED_LOCALISATION (severity 2/5)
+
+'an eight ounce bottle of medicine' becomes 'um frasco de 250 mililitros' (8 fl oz is ~237 ml, and the measure was changed without a note); same passage converts pounds to kilos.
+
+> **EN:** The drug store sells an eight ounce bottle of medicine; the meat packer sells a pound of beef.
+>
+> **PT:** A farmácia vende um frasco de 250 mililitros de remédio; o açougueiro vende um quilo de carne.
+
+### 25. [tragedy_euro] NUMERIC_ERROR (severity 5/5)
+
+'Banks headquartered in the Eurozone had €144 billion exposure to Greece, but €507 billion to Spain' becomes '€206 bilhões ... €727 bilhões'. The next five sentences are changed the same way (344→493, 324->465, 173->248, 141->202, 77->110), a constant factor of ~1.43 (a USD/EUR rate) while the euro sign is kept. Either a silent currency conversion mislabelled as euros or different data; in both cases not what the English says.
+
+> **EN:** Banks headquartered in the Eurozone had €144 billion exposure to Greece, but €507 billion to Spain.
+>
+> **PT:** Bancos sediados na zona do euro haviam emprestado um total de €206 bilhões para Grécia, mas, para a Espanha, este valor chegava a €727 bilhões.
+
+### 26. [tragedy_euro] NUMERIC_ERROR (severity 4/5)
+
+'The €110 billion granted to Greece' becomes 'Os €240 bilhões dados à Grécia'; the Portuguese text itself says '110 bilhões de euros' for the same package a few pages earlier.
+
+> **EN:** The €110 billion granted to Greece may itself not be enough.
+>
+> **PT:** Os €240 bilhões dados à Grécia podem, por si sós, não ser suficientes.
+
+### 27. [tragedy_euro] FALSE_FRIEND (severity 3/5)
+
+'The SGP will be reformed and finally enforced' becomes 'O Pacto de Estabilidade e Crescimento é finamente aplicado' ('finally' -> 'finamente' = 'finely'); the future and 'reformed' are also lost.
+
+> **EN:** The SGP will be reformed and finally enforced.
+>
+> **PT:** O Pacto de Estabilidade e Crescimento é finamente aplicado.
+
+### 28. [education_free] NUMERIC_ERROR (severity 2/5)
+
+'Pennsylvania Compulsory Education Law of 1895' becomes 'de 1885'.
+
+> **EN:** The report complained that the Pennsylvania Compulsory Education Law of 1895 did not take effect in the city of Philadelphia, and recommended that it do so.
+>
+> **PT:** O relatório reclamou que a Lei de Educação Obrigatória da Pensilvânia de 1885 ainda não estava em vigor na cidade da Filadélfia, e recomendou que vigorasse.
+
+### 29. [left_right] NUMERIC_ERROR (severity 2/5)
+
+'the editor had written in mid-1933' becomes 'meados de 1938' (the quote is about the New Deal period).
+
+> **EN:** Dutt effectively concluded with a quote from an editor of the highly respected Current History Magazine: “The new America (the editor had written in mid-1933) will not be capitalist in the old sense, nor will it be Socialist.
+>
+> **PT:** Dutt conclui convincentemente, citando palavras de um editor do conceituado Current History Magazine: “A nova América (escrevia esse editor em meados de 1938) não será capitalista no velho sentido, e tampouco será socialista.
+
+### 30. [liberalism] NUMERIC_ERROR (severity 1/5)
+
+Bentham's 'Defence of Usury (1787)' becomes '(1781)'.
+
+> **EN:** David Hume, Essays Moral, Political, and Literary (1741 and 1742), and Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776), but especially Jeremy Bentham, numerous writings, beginning with Defence of Usury (1787), up to the Deontology, or the Science of Morality, published after his death in 1834.
+>
+> **PT:** David Hume, Essays, Moral, Political, and Literary (1741 e 1742) e Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776),1 mas especialmente Jeremy Bentham, numerosos trabalhos a começar por Defence of Usury (1781), até Deontology, ou The Science of Morality, publicado após sua morte, em 1834.
+
+### 31. [against_ip] NUMERIC_ERROR (severity 1/5)
+
+US patent No. 5,443,036 becomes 'N. 5.433.036' (and 6,007,340 becomes 6.007.349 two beads later): citation numbers transposed.
+
+> **EN:** No. 5,443,036, Aug. 22, 1995 (shining a laser light onto the floor to fascinate a cat and cause it to chase the light);
+>
+> **PT:** N. 5.433.036, 22 de Ago., 1995 (brilhar um laser no chão para fascinar o gato e fazer com que ele siga a luz);
+
+### 32. [mises_calc] POLARITY (severity 3/5)
+
+'This is not at all the case.' becomes 'Mas isso, em absoluto, irá ocorrer.' Without a negation word the sentence reads as an affirmation ('this will absolutely happen') of the thing Mises is denying (that socialist institutions evolve naturally out of capitalist ones).
+
+> **EN:** This is not at all the case.
+>
+> **PT:** Mas isso, em absoluto, irá ocorrer.
+
+### 33. [for_new_liberty] DROPPED_QUALIFIER (severity 3/5)
+
+'an impermissible SEXUAL double standard has been at work' (about rape victims treated as the guilty party) becomes 'uma duplicidade de pesos e medidas inadmissível': 'sexual' is dropped, which removes the point of the sentence.
+
+> **EN:** Clearly, an impermissible sexual double standard has been at work.
+>
+> **PT:** Claramente, uma duplicidade de pesos e medidas inadmissível vem sendo posta em prática.
+
+### 34. [theory_history] MISTRANSLATION (severity 3/5)
+
+'not individuals but the group is the subject of history' (subject = agent) becomes 'o assunto que a historia devia abordar era o grupo' (subject = topic).
+
+> **EN:** As they see it, not individuals but the group is the subject of history.
+>
+> **PT:** Em seu ponto de vista, o assunto que a história devia abordar era o grupo, e não os indivíduos.
+
+### 35. [power_market] IDIOM (severity 3/5)
+
+'the argument ... proves far too much' (a standard objection: it would prove absurd conclusions too) becomes 'Isso já é bastante revelador' ('that is quite revealing'), losing the logical point.
+
+> **EN:** Moreover, the argument is hardly unique to the minting business; it proves far too much.
+>
+> **PT:** Além disso, o argumento não é exclusivo para a cunhagem. Isso já é bastante revelador.
+
+### 36. [human_action] MEANING_SHIFT (severity 2/5)
+
+'There are men who are commonly stigmatized as monetary cranks. The monetary crank suggests a method for making everybody prosperous by monetary measures.' becomes 'Há pessoas que defendem zelosamente medidas monetárias não ortodoxas': Mises's pejorative 'monetary crank' is neutralised.
+
+> **EN:** There are men who are commonly stigmatized as monetary cranks. The monetary crank suggests a method for making everybody prosperous by monetary measures.
+>
+> **PT:** Há pessoas que defendem zelosamente medidas monetárias não ortodoxas, confiantes em que tais medidas farão com que todos prosperem.
+
+### 37. [huerta_socialism] NUMERIC_ERROR (severity 2/5)
+
+'particularly in the 1960s' becomes 'especialmente nos anos de 1970' (European-Portuguese edition hosted by Mises Brasil, translated from the Spanish; compared here through the IEA's English translation).
+
+> **EN:** First, this model had a large group of defenders, particularly in the 1960s, who attempted to justify their positions with a series of theoretical arguments which in essence closely resembled those underlying the “market socialism” model, and which went virtually unanswered at the time.
+>
+> **PT:** Em primeiro lugar, este modelo teve um grande grupo de defensores, especialmente nos anos de 1970, que tentou justificar as suas posições com base em argumentos teóricos que, na sua essência, eram muito semelhantes aos que fundamentam o modelo do «socialismo de mercado» e que, nessa altura, eram praticamente incontestáveis.
+
+### 38. [agd] IDIOM (severity 2/5)
+
+'monetarism fell between two stools' becomes 'o monetarismo perdeu uma oportunidade' ('missed an opportunity').
+
+> **EN:** In this way, monetarism fell between two stools.
+>
+> **PT:** Assim, o monetarismo perdeu uma oportunidade.
+
+### 39. [agd] TERMINOLOGY (severity 3/5)
+
+'Bills Discounted' / 'Bills Bought' (Federal Reserve assets: discounted commercial paper and acceptances) are rendered consistently as 'Notas Descontadas' (25x) and 'Notas Compradas' (28x). 'Notas' reads as banknotes; the standard rendering is 'títulos/efeitos descontados' or 'letras'. Systematic across the book's central statistical chapters.
+
+> **EN:** Bills Discounted ($446 million) and Bills Bought ($45 million)
+>
+> **PT:** Notas Descontadas (US$ 446 milhões) e as Notas Compradas (US$ 45 milhões)

@@ -1,0 +1,290 @@
+[
+ {
+  "name": "whgd",
+  "title": "What Has Government Done to Our Money? / O que o governo fez com o nosso dinheiro",
+  "author": "Rothbard",
+  "src": "data/en_raw/what_has_government_done.epub",
+  "pt": "data/pt_raw/o-que-o-governo-fez-com-o-nosso-dinheiro.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "hoppe_tsc",
+  "title": "A Theory of Socialism and Capitalism / Uma teoria do socialismo e do capitalismo",
+  "author": "Hoppe",
+  "src": "data/en_raw/theory_socialism_capitalism.epub",
+  "pt": "data/pt_raw/uma-teoria-do-socialismo-e-do-capitalismo.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "mises_critique",
+  "title": "A Critique of Interventionism / Uma crítica ao intervencionismo",
+  "author": "Mises",
+  "src": "data/en_raw/critique_interv.epub",
+  "pt": "data/pt_raw/uma-critica-ao-invervencionismo.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "against_ip",
+  "title": "Against Intellectual Property / Contra a propriedade intelectual",
+  "author": "Kinsella",
+  "src": "data/en_raw/against_ip.epub",
+  "pt": "data/pt_raw/contra-a-propriedade-intelectual.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "agd",
+  "title": "America's Great Depression / A grande depressão americana",
+  "author": "Rothbard",
+  "src": "data/en_raw/americas_great_depression.epub",
+  "pt": "data/pt_raw/a-grande-depressao-americana.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "six_lessons",
+  "title": "Economic Policy: Thoughts for Today and Tomorrow / As seis lições",
+  "author": "Mises",
+  "src": "data/en_raw/six_lessons.epub",
+  "pt": "data/pt_raw/as-seis-licoes.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "bastiat_law",
+  "title": "The Law / A lei",
+  "author": "Bastiat",
+  "src": "data/en_raw/bastiat_law.epub",
+  "pt": "data/pt_raw/a-lei.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "anatomy_state",
+  "title": "Anatomy of the State / A anatomia do estado",
+  "author": "Rothbard",
+  "src": "data/en_raw/anatomy_state.epub",
+  "pt": "data/pt_raw/a-anatomia-do-estado.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "anticapitalistic",
+  "title": "The Anti-Capitalistic Mentality / A mentalidade anticapitalista",
+  "author": "Mises",
+  "src": "data/en_raw/anticapitalistic.epub",
+  "pt": "data/pt_raw/a-mentalidade-anticapitalista.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "hoppe_esam",
+  "title": "Economic Science and the Austrian Method / A ciência econômica e o método austríaco",
+  "author": "Hoppe",
+  "src": "data/en_raw/hoppe_esam.epub",
+  "pt": "data/pt_raw/a-ciencia-economica-e-o-metodo-austriaco.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "for_new_liberty",
+  "title": "For a New Liberty / Por uma nova liberdade",
+  "author": "Rothbard",
+  "src": "data/en_raw/for_new_liberty.epub",
+  "pt": "data/pt_raw/por-uma-nova-liberdade-o-manifesto-libertario.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "mises_calc",
+  "title": "Economic Calculation in the Socialist Commonwealth / O cálculo econômico sob o socialismo",
+  "author": "Mises",
+  "src": "data/en_raw/mises_calc.epub",
+  "pt": "data/pt_raw/o-calculo-economico-sob-o-socialismo.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "education_free",
+  "title": "Education: Free and Compulsory / Educação livre e obrigatória",
+  "author": "Mises",
+  "src": "data/en_raw/education_free.epub",
+  "pt": "data/pt_raw/educacao-livre-e-obrigatoria.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "denat_money",
+  "title": "Denationalisation of Money / Desestatização do dinheiro",
+  "author": "Hayek",
+  "src": "data/en_raw/denat_money.epub",
+  "pt": "data/pt_raw/desestatizacao-do-dinheiro.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "left_right",
+  "title": "Left, Right, and the Prospects for Liberty / Esquerda e direita",
+  "author": "Rothbard",
+  "src": "data/en_raw/left_right.epub",
+  "pt": "data/pt_raw/esquerda-e-direita-perspectivas-para-a-liberdade.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "theory_history",
+  "title": "Theory and History / Teoria e história",
+  "author": "Mises",
+  "src": "data/en_raw/theory_history.epub",
+  "pt": "data/pt_raw/teoria-e-historia.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "liberalism",
+  "title": "Liberalism: The Classical Tradition / Liberalismo",
+  "author": "Mises",
+  "src": "data/en_raw/liberalism_en.epub",
+  "pt": "data/pt_raw/liberalismo.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "liberalismus_de",
+  "title": "Liberalismus (DE) / Liberalismo",
+  "author": "Mises",
+  "src": "data/en_raw/liberalismus_de.pdf",
+  "pt": "data/pt_raw/liberalismo.pdf",
+  "lang": "de"
+ },
+ {
+  "name": "human_action",
+  "title": "Human Action / Ação humana",
+  "author": "Mises",
+  "src": "data/en_raw/human_action.epub",
+  "pt": "data/pt_raw/acao-humana-um-tratado-de-economia.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "defending_undefendable",
+  "title": "Defending the Undefendable / Defendendo o indefensável",
+  "author": "Block",
+  "src": "data/en_raw/defending_undefendable.epub",
+  "pt": "data/pt_raw/defendendo-o-indefensavel.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "hoppe_what_must",
+  "title": "What Must Be Done / O que deve ser feito",
+  "author": "Hoppe",
+  "src": "data/en_raw/hoppe_what_must.epub",
+  "pt": "data/pt_raw/o-que-deve-ser-feito.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "power_market",
+  "title": "Power and Market / Governo e mercado",
+  "author": "Rothbard",
+  "src": "data/en_raw/power_and_market.epub",
+  "pt": "data/pt_raw/governo-e-mercado.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "huerta_money_en",
+  "title": "Money, Bank Credit and Economic Cycles (EN) / Moeda, crédito bancário e ciclos econômicos",
+  "author": "Huerta de Soto",
+  "src": "data/en_raw/huerta_money.epub",
+  "pt": "data/pt_raw/moeda-credito-bancario-e-ciclos-economicos.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "huerta_money_es",
+  "title": "Dinero, crédito bancario y ciclos económicos (ES) / Moeda, crédito bancário e ciclos econômicos",
+  "author": "Huerta de Soto",
+  "src": "data/en_raw/huerta_money_es.pdf",
+  "pt": "data/pt_raw/moeda-credito-bancario-e-ciclos-economicos.pdf",
+  "lang": "es"
+ },
+ {
+  "name": "tragedy_euro",
+  "title": "The Tragedy of the Euro / A tragédia do euro",
+  "author": "Bagus",
+  "src": "data/en_raw/tragedy_euro.epub",
+  "pt": "data/pt_raw/a-tragedia-do-euro.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "politics_obedience",
+  "title": "The Politics of Obedience / O discurso da servidão voluntária",
+  "author": "La Boétie",
+  "src": "data/en_raw/politics_obedience.epub",
+  "pt": "data/pt_raw/o-discurso-da-servidao-voluntaria.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "production_security",
+  "title": "The Production of Security / Da produção de segurança",
+  "author": "Molinari",
+  "src": "data/en_raw/production_security.epub",
+  "pt": "data/pt_raw/da-producao-de-seguranca.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "freedom_law",
+  "title": "Freedom and the Law / Liberdade e a lei",
+  "author": "Leoni",
+  "src": "data/en_raw/freedom_law.pdf",
+  "pt": "data/pt_raw/liberdade-e-a-lei.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "mises_personal",
+  "title": "Mises and Austrian Economics: A Personal View / Mises e a Escola Austríaca",
+  "author": "Rothbard",
+  "src": "data/en_raw/mises_personal.epub",
+  "pt": "data/pt_raw/mises-e-a-escola-austriaca-uma-visao-pessoal.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "bohm_exploitation",
+  "title": "Capital and Interest (exploitation theory) / A teoria da exploração do socialismo-comunismo",
+  "author": "Böhm-Bawerk",
+  "src": "data/en_raw/capital_interest.epub",
+  "pt": "data/pt_raw/a-teoria-da-exploracao-do-socialismo-comunismo.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "human_action_de",
+  "title": "Nationalökonomie (DE) / Ação humana",
+  "author": "Mises",
+  "src": "data/en_raw/nationalokonomie_de.pdf",
+  "pt": "data/pt_raw/acao-humana-um-tratado-de-economia.pdf",
+  "lang": "de"
+ },
+ {
+  "name": "hazlitt",
+  "title": "Economics in One Lesson / Economia numa única lição",
+  "author": "Hazlitt",
+  "src": "data/en_raw/hazlitt.pdf",
+  "pt": "data/pt_raw/economia-numa-unica-licao.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "huerta_socialism",
+  "title": "Socialism, Economic Calculation and Entrepreneurship / Socialismo, cálculo econômico e função empresarial (PT-PT)",
+  "author": "Huerta de Soto",
+  "src": "data/en_raw/huerta_socialism.pdf",
+  "pt": "data/pt_raw/socialismo-calculo-economico-e-funcao-empresarial.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "ethics_liberty",
+  "title": "The Ethics of Liberty / A ética da liberdade",
+  "author": "Rothbard",
+  "src": "data/en_raw/ethics_liberty.epub",
+  "pt": "data/pt_raw/a-etica-da-liberdade.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "essential_vm",
+  "title": "The Essential von Mises / O essencial von Mises",
+  "author": "Rothbard",
+  "src": "data/en_raw/essential_vm.pdf",
+  "pt": "data/pt_raw/o-essencial-von-mises.pdf",
+  "lang": "en"
+ },
+ {
+  "name": "interventionism",
+  "title": "Interventionism: An Economic Analysis / Intervencionismo: uma análise econômica",
+  "author": "Mises",
+  "src": "data/en_raw/interventionism.pdf",
+  "pt": "data/pt_raw/intervencionismo-uma-analise-economica.pdf",
+  "lang": "en"
+ }
+]

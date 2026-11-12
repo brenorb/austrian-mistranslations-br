@@ -1,0 +1,695 @@
+[
+ {
+  "book": "a-economia-do-intervencionismo",
+  "sim": 0.7587359547615051,
+  "quote": "... uma norma restritiva imposta por um órgão governamental, que força os donos dos meios de produção e os empresários a empregarem estes meios de uma forma diferente da que empregariam.",
+  "src_book": "mises_critique",
+  "src": "Intervention is a limited order by a social authority forcing the owners of the means of production and entrepreneurs to employ their means in a different manner than they otherwise would."
+ },
+ {
+  "book": "historia-do-debate-do-calculo-economico-socialista",
+  "sim": 0.8331212997436523,
+  "quote": "Onde não existe mercado livre, não existe mecanismo de preços; sem um mecanismo de preços, não existe cálculo econômico. (Mises, 1935:111)",
+  "src_book": "mises_calc",
+  "src": "Where there is no free market, there is no pricing mechanism; without a pricing mechanism, there is no economic calculation."
+ },
+ {
+  "book": "historia-do-debate-do-calculo-economico-socialista",
+  "sim": 0.742974042892456,
+  "quote": "The Equations of Mathematical Economics and the Problem of Economic Calculation in a Socialist State",
+  "src_book": "mises_calc",
+  "src": "The Most Recent Socialist Doctrines and the Problem of Economic Calculation"
+ },
+ {
+  "book": "historia-do-debate-do-calculo-economico-socialista",
+  "sim": 0.721078634262085,
+  "quote": "Recent Writings Concerning the Problem of Economic Calculation under Socialism, em Selected Writings of Ludwig von Mises. Indianapolis: Liberty Fund. Mises, L. (s.d.) Uma Crítica ao Intervencionismo, Rio de Janeiro: Nórdica/IL. Murrell, P. (1983) “Did the Theory of Market Socialism Answer the Challenge of Ludwig von Mises? A Reinterpretation of the Socialist Controversy",
+  "src_book": "against_ip",
+  "src": "On epistemological dualism, see Ludwig von Mises, The Ultimate Foundation of Economic Science: An Essay on Method, 2nd ed. (Kansas City: Sheed Andrews and McMeel, 1962); Ludwig von Mises, Epistemological Problems of Economics, trans."
+ },
+ {
+  "book": "dez-licoes-fundamentais-de-economia-austriaca",
+  "sim": 0.7679347991943359,
+  "quote": "O processo de mercado é o ajustamento das ações individuais dos vários membros da sociedade aos requisitos da cooperação mútua.  Os preços de mercado informam aos produtores o que produzir como produzir e em que quantidade.  O mercado é o ponto focal para onde convergem e de onde se irradiam as atividades dos indivíduos",
+  "src_book": "human_action",
+  "src": "The market process is the adjustment of the individual actions of the various members of the market society to the requirements of mutual cooperation."
+ },
+ {
+  "book": "dez-licoes-fundamentais-de-economia-austriaca",
+  "sim": 0.7250377535820007,
+  "quote": "Aqueles empreendedores que se mostrarem incapazes de produzir, da melhor e mais barata maneira possível, os bens e serviços que os consumidores estão demandando com mais urgência, sofrerão prejuízos e serão, em última instância, eliminados de sua posição empreendedorial.  Outros empreendedores que tenham maior capacidade administrativa e que saibam melhor como servir aos consumidores substituirão estes que fracassaram",
+  "src_book": "interventionism",
+  "src": "Should they fail to use the cheapest supplies, should they fail to make the most efficient use of the producers' goods in production, they would be unable to satisfy the wants of the consumers at lowest prices; more efficient entrepreneurs who know better how to buy and how to produce would crowd them out of the market."
+ },
+ {
+  "book": "dez-licoes-fundamentais-de-economia-austriaca",
+  "sim": 0.7403756380081177,
+  "quote": "Em outras palavras, os seres humanos, em situações semelhantes, sempre desejam alcançar os seus fins da maneira mais rápida e menos incerta possível e somente mostrarão disposição para adiar a realização de seus propósitos se - subjetivamente - julgarem que o adiamento lhes permitirá alcançar objetivos de maior valor. A isto se denomina de preferência intertemporal. Escrevendo de outra forma: os bens presentes são preferíveis aos bens futuros, ou, ainda: o adiamento de uma recompensa no presente exige uma recompensa maior no futuro",
+  "src_book": "huerta_money_en",
+  "src": "Other people have a more limited time preference, and although they also value present goods more than future goods, they are more predisposed to relinquish the immediate achievement of their aims in exchange for objectives which they value only a little more and which will be reached tomorrow."
+ },
+ {
+  "book": "dez-licoes-fundamentais-de-economia-austriaca",
+  "sim": 0.8191681504249573,
+  "quote": "... a quantidade de moeda disponível em toda a economia é sempre suficiente para assegurar a todos tudo o que a moeda faz e pode fazer",
+  "src_book": "human_action",
+  "src": "The quantity of money available in the whole economy is always sufficient to secure for everybody all that money does and can do."
+ },
+ {
+  "book": "acao-tempo-e-conhecimento-a-escola-austriaca",
+  "sim": 0.9032722115516663,
+  "quote": "o conhecimento humano é condicionado pelo poder da mente humana e pela amplitude do campo em que os objetos despertam sensações humanas",
+  "src_book": "theory_history",
+  "src": "Human knowledge is conditioned by the power of the human mind and by the extent of the sphere in which objects evoke human sensations."
+ },
+ {
+  "book": "acao-tempo-e-conhecimento-a-escola-austriaca",
+  "sim": 0.7715509533882141,
+  "quote": "o órgão central se encontra, portanto, diante de um dilema inescapável, pois necessita fortemente da informação que vai sendo gerada pelo processo social, informação que não consegue obter em nenhum caso, porque, ao intervir coativamente em tal processo, destrói a capacidade criadora de informação e, se não intervém, tampouco obtém qualquer informação",
+  "src_book": "huerta_socialism",
+  "src": "It defi nitely needs the information the social process generates, yet it can never acquire this information: if the governing body intervenes coercively in this process, it destroys the capacity of the process to create information, and if it does not intervene, it does not obtain any information either."
+ },
+ {
+  "book": "acao-tempo-e-conhecimento-a-escola-austriaca",
+  "sim": 0.8475176692008972,
+  "quote": "Robinson Crusoé (como) o dirigente supremo de uma comunidade socialista perfeitamente isolada – que nunca existiu – não poderiam planejar e agir como o fazem as pessoas que podem recorrer ao cálculo econômico",
+  "src_book": "human_action",
+  "src": "Robinson Crusoe, who, for all that, may have existed, and the general manager of a perfectly isolated socialist commonwealth that never existed, would not have been in a position to plan and to act as people can only when taking recourse to economic calculation."
+ },
+ {
+  "book": "acao-tempo-e-conhecimento-a-escola-austriaca",
+  "sim": 0.8191681504249573,
+  "quote": "... a quantidade de moeda disponível em toda a economia é sempre suficiente para assegurar a todos tudo o que a moeda faz e pode fazer",
+  "src_book": "human_action",
+  "src": "The quantity of money available in the whole economy is always sufficient to secure for everybody all that money does and can do."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.797784686088562,
+  "quote": "A importância que determinados bens concretos – ou quantidades concretas de bens – adquirem para nós, pelo fato de estarmos conscientes de que só poderemos atender às nossas necessidades na medida em que dispusermos deles",
+  "src_book": "bohm_exploitation",
+  "src": "Value is the importance “ which concrete goods, or quantities of goods, receive for us through the fact that we are conscious of being dependent, for the satisfaction of our wants, on having these goods at our disposal.”"
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7688833475112915,
+  "quote": "o que os socialistas desejam é, usando das palavras certas, que os trabalhadores recebam através do contrato de trabalho mais do que trabalharam, mais do que receberiam se fossem empresários, mais do que produzem para o empresário com quem firmaram contrato de trabalho",
+  "src_book": "bohm_exploitation",
+  "src": "To give the matter its proper expression, what the socialists would have is, that the labourers, by means of the wage-contract, should get more than they have made; more than they could get if they were undertakers on their own account; and more than they produce for the undertaker with whom they conclude the wage-contract."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7857412099838257,
+  "quote": "toda a mais-valia, seja qual for a forma em que vá se cristalizar mais tarde – lucro, juro, renda etc. – é, subs- tancialmente, materialização de trabalho não pago",
+  "src_book": "bohm_exploitation",
+  "src": "All surplus value, in whatever particular form it may afterwards crystallise itself, be it profit, interest, rent, or any other, is in substance only the material shape of unpaid labour."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.85971999168396,
+  "quote": "quem não for capaz de formar a sua própria opinião quanto ao difícil e essencialmente técnico problema do cálculo econômico numa sociedade socialista deveria se abster de falar sobre o assunto",
+  "src_book": "interventionism",
+  "src": "No one, who is not able to form an independent opinion about the admit- tedly difficult and highly technical problem of calculation in the socialist economy, should take sides in the question of socialism versus capitalism."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7338466644287109,
+  "quote": "O resultado final da disputa entre liberalismo e totalitarismo não será decidido pelas armas, mas por ideias.",
+  "src_book": "liberalism",
+  "src": "The ultimate outcome of the struggle, however, will not be decided by arms, but by ideas."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8585994839668274,
+  "quote": "Contra aquilo que é estúpido, sem sentido, errôneo e mal, o liberalismo luta com suas armas da mente, e não com a força bruta e repressão.",
+  "src_book": "liberalism",
+  "src": "Against what is stupid, nonsensical, erroneous, and evil, liberalism fights with the weapons of the mind, and not with brute force and repression."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8619062304496765,
+  "quote": "aquele que afunda num pântano não pode escapar dando um pequeno passo: sua única esperança só pode estar num longo salto",
+  "src_book": "denat_money",
+  "src": "A man sinking in a bog cannot escape by a short step; his only hope may be a long leap."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7704418897628784,
+  "quote": "está no fato de ele impedir os governos de ‘protegerem’ as moedas que emitem contra as consequências adversas de suas próprias medidas e, assim, de impedir que os governantes continuem adotando essas medidas prejudiciais",
+  "src_book": "denat_money",
+  "src": "The main advantage of the proposed scheme, in other words, is that it would prevent governments from ‘protecting’ the currencies they issue against the harmful consequences of their own measures, and therefore prevent them from further employing these harmful tools."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.848892092704773,
+  "quote": "Nada poderia ser melhor do que retirar do governo seu poder sobre o dinheiro e, portanto, deter a aparentemente irresistível tendência em direção ao aumento acelerado da parcela da renda nacional que o governo pode reivindicar",
+  "src_book": "denat_money",
+  "src": "Nothing can be more welcome than depriving government of its power over money and so stopping the apparently irresistible trend towards an accelerating increase of the share of the national income it is able to claim."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8984002470970154,
+  "quote": "Qualquer tentativa de combater a crise com a expansão de crédito, portanto, será não apenas o simples tratamento dos sintomas como causas, mas poderá também prolongar a depressão atrasando os ajustes reais inevitáveis.",
+  "src_book": "huerta_money_en",
+  "src": "Any attempt to combat the crisis by credit expansion will, therefore, not only be merely the treatment of symptoms as causes, but may also prolong the depression by delaying the inevitable real adjustments."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.915412425994873,
+  "quote": "O libertário deve possuir uma paixão pela justiça, uma emoção derivada do e guiada pelo seu insight racional do que a justiça natural requer.",
+  "src_book": "ethics_liberty",
+  "src": "The libertarian must be possessed of a passion for justice, an emotion derived from and channeled by his rational insight into what natural justice requires."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8890580534934998,
+  "quote": "Consideramos estas verdades como evidentes por si mesmas, que todos os homens foram criados iguais, foram dotados pelo Criador de certos direitos inalienáveis, que entre estes estão a vida, a liberdade e a busca da felicidade.",
+  "src_book": "ethics_liberty",
+  "src": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7958812117576599,
+  "quote": "A economia de mercado tem sido denominada democracia dos consumidores, por determinar através de uma votação diária quais são suas preferências.",
+  "src_book": "interventionism",
+  "src": "The market economy has been called a democracy of consumers, because it brings about a daily recurring ballot of consumer preferences."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8225637078285217,
+  "quote": "Não é porque existem destilarias que as pessoas bebem uísque; é porque as pessoas bebem uísque que existem destilarias.",
+  "src_book": "interventionism",
+  "src": "It is not because we have distilleries that people drink whiskey; it is because people like to drink whiskey that we have distilleries."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7958521246910095,
+  "quote": "É fácil ser um defensor da liberdade de expressão quando isso se aplica aos direitos daqueles com quem estamos de acordo.",
+  "src_book": "defending_undefendable",
+  "src": "I t is easy to be an advocate of free speech when it applies to the rights of those with whom one is in agreement."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8721056580543518,
+  "quote": "A principal excelência e valor do que é chamado de instituições constitucionais, democracia e governo pelo povo está no fato de que eles tornam possível mudança pacífica nos métodos e membros do governo.",
+  "src_book": "theory_history",
+  "src": "The main excellence and worth of what is called constitutional institutions, democracy and government by the people is to be seen in the fact that they make possible peaceful change in the methods and personnel of government."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8264613151550293,
+  "quote": "A histórica econômica é uma longa lista de políticas governamentais que falharam porque foram criadas com um completo desrespeito pelas leis da economia.",
+  "src_book": "human_action",
+  "src": "In fact, economic history is a long record of government policies that failed because they were designed with a bold disregard for the laws of economics."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7661046981811523,
+  "quote": "é o povo que se sujeita, que se corta a garganta, que, podendo escolher entre ser subjugado ou ser livre, abandona a liberdade e toma o jugo, que consente no mal, ou antes, o persegue",
+  "src_book": "politics_obedience",
+  "src": "A people enslaves itself, cuts its own throat, when, having a choice between being vassals and being free men, it deserts its liberties and takes on the yoke, gives consent to its own misery, or, rather, apparently welcomes it."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7320176959037781,
+  "quote": "Não nascemos apenas na posse de nossa liberdade, mas com a incumbência de defendê-la",
+  "src_book": "politics_obedience",
+  "src": "Since freedom is our natural state, we are not only in possession of it but have the urge to defend it."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7800270915031433,
+  "quote": "Como tem algum poder sobre vós, senão por vós? Como ousaria atacar-vos, se não estivesse em conluio convosco?",
+  "src_book": "politics_obedience",
+  "src": "How would he dare assail you if he had no cooperation from you?"
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7994245886802673,
+  "quote": "É assim que os homens nascidos sob o jugo, depois alimentados e educados na servidão, sem olhar para a frente, contentam-se em viver como nasceram, sem pensar em ter outro bem, nem outro direito senão o que encontraram, tomando como natural sua condição de nascença",
+  "src_book": "politics_obedience",
+  "src": "This is why men born under the yoke and then nourished and reared in slavery are content, without further effort, to live in their native circumstance, unaware of any other state or right, and considering as quite natural the condition into which they were born."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8547201156616211,
+  "quote": "Os teatros, jogos, farsas, espetáculos, lutas de gladiadores, animais estranhos, medalhas, quadros e outros tipos de drogas, eram para os povos antigos os atrativos da servidão, o preço da liberdade, as ferramentas da tirania",
+  "src_book": "politics_obedience",
+  "src": "Plays, farces, spectacles, gladiators, strange beasts, medals, pictures, and other such opiates, these were for ancient peoples the bait toward slavery, the price of their liberty, the instruments of tyranny."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7594473361968994,
+  "quote": "Os tolos não percebiam que nada mais faziam senão recobrar uma parte do que lhes pertencia, e que mesmo o que recobravam, o tirano não lhes podia ter dado, se antes não o tivesse tirado deles próprios.",
+  "src_book": "politics_obedience",
+  "src": "The fools did not realize that they were merely recovering a portion of their own property, and that their ruler could not have given them what they were receiving without having first taken it from them."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7743399143218994,
+  "quote": "que se consigam, pelos favores ou subfavores, que se encontrem, enfim, quase tantas pessoas às quais a tirania pareça lucrativa, como aqueles a quem a liberdade seria agradável",
+  "src_book": "politics_obedience",
+  "src": "when the point is reached, through big favors or little ones, that large profits or small are obtained under a tyrant, there are found almost as many people to whom tyranny seems advantageous as those to whom liberty would seem desirable...."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.797186017036438,
+  "quote": "Qual condição é mais miserável do que viver assim, sem nada ter de seu, recebendo de outrem satisfação, liberdade, corpo e vida?",
+  "src_book": "politics_obedience",
+  "src": "What condition is more wretched than to live thus, with nothing to call one’s own, receiving from someone else one’s sustenance, one’s power to act, one’s body, one’s very life?"
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.7499978542327881,
+  "quote": "O que torna um amigo seguro do outro é o conhecimento que tem de sua integridade",
+  "src_book": "politics_obedience",
+  "src": "What makes one friend sure of another is the knowledge of his integrity: as guarantees he has his friend’s fine nature, his honor, and his constancy."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8002397418022156,
+  "quote": "Entre os maus, quando se reúnem, há uma conspiração, não mais uma companhia; não se amam mais uns aos outros, mas se temem; não são mais amigos, mas cúmplices",
+  "src_book": "politics_obedience",
+  "src": "And in places where the wicked gather there is conspiracy only, not companionship: these have no affection for one another; fear alone holds them together; they are not friends, they are merely accomplices."
+ },
+ {
+  "book": "economia-do-individuo-o-legado-da-escola-austriaca",
+  "sim": 0.8782100081443787,
+  "quote": "No longo prazo, até mesmo os mais despóticos dos governos, com toda a sua brutalidade e crueldade, não são páreos para as ideias",
+  "src_book": "theory_history",
+  "src": "In the long run even the most despotic governments with all their brutality and cruelty are no match for ideas."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7308061122894287,
+  "quote": "e distribuí-lo a uma outra parte. Uma vez que esse excedente já tenha sido confiscado, torna-se impossível prosseguir essa política",
+  "src_book": "human_action",
+  "src": "Once this surplus is exhausted by total confiscation, a further continuation of this policy is impossible."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7256786227226257,
+  "quote": ") e não para o uso. Em terceiro lugar, a tradição clássica pecava ao separar a sociedade em classes - capitalistas, proprietários de terra e trabalhadores - e ao supor que suas rendas respectivas - lucros, aluguéis e salários - não poderiam aumentar ao mesmo tempo. Tal equívoco, conforme o leitor pode perceber, deu origem à teoria da",
+  "src_book": "human_action",
+  "src": "The correspondence between three factors of production—labor, capital, and land—and three classes of income—wages, profit, and rent—as taught by the classical economists is untenable."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.8468843698501587,
+  "quote": "...portanto, para cada emprego público, criado pelo projeto da ponte, fica destruído, em algum lugar, um emprego particular",
+  "src_book": "hazlitt",
+  "src": "Therefore for every public job created by the bridge project a private job has been destroyed somewhere else."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.896081805229187,
+  "quote": "É máxima de todo chefe de família prudente jamais tentar fabricar em casa o que lhe custará mais fabricar do que comprar",
+  "src_book": "hazlitt",
+  "src": "It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7225244641304016,
+  "quote": "- não tinham conseguido o mesmo sucesso no campo dos problemas monetários. De fato, o conceito de utilidade marginal não fora ainda utilizado para explicar a determinação valor da moeda, que continuava sendo analisada dentro metodologia desenvolvida economistas clássicos ingleses, que tratava as questões monetárias em um compartimento isolado, sob um ponto de vista",
+  "src_book": "essential_vm",
+  "src": "Marginal utility theory had not been extended to the value of money, which had continued, as under the English classical economists, to be kept in a “macro” box strictly separate from utility, value, and relative prices."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7698684334754944,
+  "quote": "moeda mediante contratos sociais, ou por imposição dos governos, ou por quaisquer esquemas artificiais propostos por economistas: moeda surge, observa Rothbard,",
+  "src_book": "essential_vm",
+  "src": "Money cannot be established by a social contract, by government imposition, or by artificial schemes proposed by economists."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.8191681504249573,
+  "quote": "... a quantidade de moeda disponível em toda a economia é sempre suficiente para assegurar a todos tudo o que a moeda faz e pode fazer",
+  "src_book": "human_action",
+  "src": "The quantity of money available in the whole economy is always sufficient to secure for everybody all that money does and can do."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.8294993042945862,
+  "quote": ", Yale University Press, New Haven, 1953, publicado originalmente em 1912, em alemão, com o título",
+  "src_book": "ethics_liberty",
+  "src": "New Haven, Yale University Press, 1949."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7741456031799316,
+  "quote": ", coletânea dos primeiros ensaios de Hayek, The University of Chicago Press, Chicago, 1984. 9. Hayek, F.A., “Desemprego e Política Monetária",
+  "src_book": "for_new_liberty",
+  "src": "1 F.A. Hayek, “The Intellectuals and Socialism,” in Studies in Philosophy, Politics, and Economics (Chicago: University of Chicago Press, 1967), p. 194."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7494134306907654,
+  "quote": ", nº 51, Modern Library, New York, 1941, pág.339. 12. Ver, por exemplo, Hayek, F.A.,",
+  "src_book": "human_action",
+  "src": "Cf. F. A. Hayek, The Pure Theory of Capital (London, 1941), p. 48."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7762162685394287,
+  "quote": ", Sheed, Andrews & Mc Meel, Kansas City, 2ª ed., 1977, pág. 237. 14. Rothbard, M.N.,",
+  "src_book": "ethics_liberty",
+  "src": "See Murray N. Rothbard, Power and Market, 2nd ed. (Kansas City: Sheed Andrews and McMeel, 1977), p. 237."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.765296220779419,
+  "quote": ", Nelson Hall, Chicago, 1974, pág. 70. * O’Driscoll, G.P. & Rizzo, M., “The Economics of Time and Ignorance",
+  "src_book": "huerta_socialism",
+  "src": "O’Driscoll, G.P. and M.J. Rizzo (1985), The Economics of Time and"
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.8138312101364136,
+  "quote": ", History of Political Economy, 18, nº 4, 1986, págs. 601/616. 21. Mises, L. von,",
+  "src_book": "huerta_money_en",
+  "src": "History of Political Economy 4, no. 18 (1986): 601–16."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7413225769996643,
+  "quote": ", Yale Univ. Press, New Haven, 1953, 3º ed. Ver, alternativamente, em português, Mises, L. von,",
+  "src_book": "ethics_liberty",
+  "src": "New Haven: Yale University Press, 1951."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7461649775505066,
+  "quote": "Hayek, Co-Ordination and Evolution - His Legacy in Philosophy, Politics, Economics and the History of Ideas",
+  "src_book": "huerta_money_en",
+  "src": "6 of Hayek, Coordination and Evolution: His Legacy in Philosophy, Politics, Economics and the History of Ideas, Jack Birner and Rudy van Zijp, eds. (London: Routledge, 1994), pp. 126–37."
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7426839470863342,
+  "quote": ", Journal of Macroeconomics, vol.6, no.2, (Spring 1984), págs 197-213 e Garrison, R.W. e Bellante, Don,",
+  "src_book": "huerta_money_en",
+  "src": "Journal of Macroeconomics 6, no. 2 [Spring, 1984]: 203)"
+ },
+ {
+  "book": "economia-e-liberdade-a-escola-austriaca-e-a-economia-brasileira",
+  "sim": 0.7230198979377747,
+  "quote": ", History of Political Economy, vol.20, no.2, 1988 págs. 207-234. Ver , também, O'Driscoll, G.P.,",
+  "src_book": "huerta_money_en",
+  "src": "History of Political Economy 20, no. 2 (1988): 299–308."
+ },
+ {
+  "book": "estado-nao-obrigado",
+  "sim": 0.7702887058258057,
+  "quote": "Para ficar rico existem duas e apenas duas formas: os meios econômicos, a produção e a troca voluntária com os outros; e os meios políticos, qual seja, a expropriação violenta da riqueza produzida por outros. O estado é a organização dos meios políticos.",
+  "src_book": "power_market",
+  "src": "There are two and only two ways of acquiring wealth: the economic means (voluntary production and exchange) and the political means (confiscation by coercion)."
+ },
+ {
+  "book": "estado-nao-obrigado",
+  "sim": 0.7916464805603027,
+  "quote": "A crença do libertarianismo se baseia num axioma central: ninguém pode agredir a pessoa e a propriedade dos outros.",
+  "src_book": "for_new_liberty",
+  "src": "T he libertarian creed rests upon one central axiom: that no man or group of men may aggress against the person or property of anyone else."
+ },
+ {
+  "book": "estado-nao-obrigado",
+  "sim": 0.8914481401443481,
+  "quote": "Nós devemos uma vez mais fazer da construção de uma sociedade livre uma aventura intelectual, um ato de bravura.",
+  "src_book": "for_new_liberty",
+  "src": "We must make the building of a free society once more an intellectual adventure, a deed of courage."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.735821545124054,
+  "quote": "lida não com o mundo exterior, mas com a conduta do homem em relação ao mundo exterior70",
+  "src_book": "human_action",
+  "src": "Praxeology does not deal with the external world, but with man’s conduct with regard to it."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.7867426872253418,
+  "quote": "não trata de coisas ou de objetos materiais tangíveis; trata de homens, de suas apreciações e das ações que daí derivam71",
+  "src_book": "human_action",
+  "src": "Economics is not about things and tangible material objects; it is about men, their meanings and actions."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.7457640767097473,
+  "quote": "Os meios são, necessariamente, sempre escassos, isto é, insuficientes para alcançar todos os objetivos pretendidos pelo homem.",
+  "src_book": "human_action",
+  "src": "Means are necessarily always limited, i.e., scarce with regard to the services for which man wants to use them."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.7308861613273621,
+  "quote": "No nosso universo não existem meios; só existem coisas. Uma coisa só se torna um meio quando a razão humana percebe a possibilidade de empregá-la para atingir um determinado fim e realmente a emprega com este propósito.",
+  "src_book": "human_action",
+  "src": "A thing becomes a means when human reason plans to employ it for the attainment of some end and human action really employs it for this purpose."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.8061736226081848,
+  "quote": "um continuum em que objetos com vários graus de liquidez, ou com valores que podem oscilar independentemente, se confundem um com o outro quanto ao grau em que funcionam como dinheiro",
+  "src_book": "denat_money",
+  "src": "What we find is rather a continuum in which objects of various degrees of liquidity, or with values which can fluctuate independently of each other, shade into each other in the degree to which they function as money."
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.7655062079429626,
+  "quote": "Um bom dinheiro só pode surgir do interesse próprio, e não da benevolência. Sempre tivemos moeda ruim porque a empresa privada não teve permissão de nos fornecer uma melhor",
+  "src_book": "denat_money",
+  "src": "Good money can come only from self-interest, not from benevolence"
+ },
+ {
+  "book": "bitcoin-a-moeda-na-era-digital",
+  "sim": 0.8882665634155273,
+  "quote": "Há, portanto, uma imensa tarefa educacional à nossa frente antes que possamos ter a esperança de nos libertarmos da mais grave ameaça à paz social e à contínua prosperidade, inerente às instituições monetárias atuais",
+  "src_book": "denat_money",
+  "src": "There is thus an immense educational task ahead before we can hope to free ourselves from the gravest threat to social peace and continued prosperity inherent in existing monetary institutions."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.8707366585731506,
+  "quote": "a economia, falando sobre os empreendedores, não considera os homens, mas uma função específica",
+  "src_book": "human_action",
+  "src": "Economics, in speaking of entrepreneurs, has in view not men, but a definite function."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.7948248386383057,
+  "quote": "aqueles que estão particularmente impulsionados pelo lucro, adaptando a produção às mudanças esperadas nas condições [de mercado], aqueles que têm mais iniciativa, maior espírito aventureiro e a vista mais apurada que a da massa, os pioneiros da iniciativa e da promoção das melhorias econômicas",
+  "src_book": "human_action",
+  "src": "It also calls entrepreneurs those who are especially eager to profit from adjusting production to the expected changes in conditions, those who have more initiative, more venturesomeness, and a quicker eye than the crowd, the pushing and promoting pioneers of economic improvement."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.7486534714698792,
+  "quote": "(1) Todo homem tem o direito (moral) de possuir sua própria pessoa; então (2) todo homem tem o direito (moral) de possuir seu próprio trabalho; logo (3) todo homem tem o direito (moral) de possuir aquilo que se envolve no seu processo de trabalho. Aparentemente, Locke parte do pressuposto que, uma vez que um homem tem o direito moral a seu próprio trabalho, tem também um direito moral àquilo que seu trabalho produz “7. Isso, segundo Kirzner, aparece “implicitamente na proposição (3)",
+  "src_book": "ethics_liberty",
+  "src": "Thus every man having a natural right to (or being proprietor of) his own person and his own actions and labour, which we call property, it certainly follows, that no man can have a right to the person or property of another: And if every man has a right to his person and property; he has also a right to defend them... and so has a right of punishing all insults upon his person and property.”"
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.9092397689819336,
+  "quote": "um empreendedor pode tirar lucro apenas se antecipa condições futuras mais corretamente que os outros empreendedores",
+  "src_book": "human_action",
+  "src": "An entrepreneur can make a profit only if he anticipates future conditions more correctly than other entrepreneurs."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.8876939415931702,
+  "quote": "as massas de homens não criam suas próprias ideias, ou pensam de forma independente através dessas ideias; eles seguem passivamente as ideias adotadas e disseminadas pelo corpo de intelectuais",
+  "src_book": "anatomy_state",
+  "src": "For the masses of men do not create their own ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and disseminated by the body of intellectuals."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.869613528251648,
+  "quote": "o estado, por outro lado, está disposto a oferecer aos intelectuais um lugar seguro e permanente no aparato do estado; e portanto uma renda estável e uma aura de prestígio",
+  "src_book": "anatomy_state",
+  "src": "The State, on the other hand, is willing to offer the intellectuals a secure and permanent berth in the State apparatus; and thus a secure income and the panoply of prestige."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.795448362827301,
+  "quote": "eles [os intelectuais] odeiam o capitalismo, porque ele concedeu a esse outro homem [o empresário] a posição que eles mesmos desejavam ocupar",
+  "src_book": "anticapitalistic",
+  "src": "They loathe capitalism because it has assigned to this other man the position they themselves would like to have."
+ },
+ {
+  "book": "o-empreendedorismo-de-israel-kirzner",
+  "sim": 0.788713276386261,
+  "quote": "as pessoas não pedem mais socialismo porque sabem que o socialismo vai melhorar suas condições, e não rejeitam o capitalismo porque sabem que é um sistema prejudicial aos seus interesses. Eles são socialistas porque acreditam que o socialismo vai melhorar as suas condições, e odeiam o capitalismo porque acreditam que os prejudique. Eles são socialistas porque estão cegos pela inveja e pela ignorância",
+  "src_book": "anticapitalistic",
+  "src": "However, people do not ask for socialism because they know that socialism will improve their conditions, and they do not reject capitalism because they know that it is a system prejudicial to their interests."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7662034630775452,
+  "quote": "O presente livro reflete plenamente a posição fundamental do autor por aquilo que era – e ainda é – admirado por seguidores e desprezado por oponentes... Embora cada uma das seis palestras possa ser lida separadamente como um ensaio indepen- dente, a harmonia da série proporciona um prazer estético semelhante ao olhar- mos para a arquitetura de um edifício bem projetado",
+  "src_book": "six_lessons",
+  "src": "The present book fully reflects the author’s fundamental position for which he was—and still is—admired by followers and reviled by opponents...."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.9028725028038025,
+  "quote": "Uma sociedade na qual se praticam os princípios libe- rais geralmente é chamada de uma sociedade capita- lista e a condição desta sociedade, de capitalismo.",
+  "src_book": "liberalism",
+  "src": "A society in which liberal principles are put into effect is usually called a capitalist society, and the condition of that society, capitalism."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.9262531399726868,
+  "quote": "Socialismo ou comunismo é aquela organização da sociedade na qual a propriedade – o poder de em- pregar todos os meios de produção – está nas mãos da sociedade, ou seja, do estado como o aparato social de coação e coerção.",
+  "src_book": "liberalism",
+  "src": "Socialism or communism is that organization of society in which property—the power of deploying all the means of production—is vested in society, i.e., in the state, as the social apparatus of compulsion and coercion."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7814372181892395,
+  "quote": "O objetivo do Socialismo é transferir os meios de produção da propriedade privada para a proprieda- de da sociedade organizada, para o Estado.",
+  "src_book": "mises_critique",
+  "src": "Socialism seeks to transfer the property in the means of production to the hands of organized society, the state."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8876710534095764,
+  "quote": "Os liberais sustentam que o único sistema viável para a cooperação humana em uma sociedade baseada na divisão do trabalho é a propriedade privada dos meios de produção.",
+  "src_book": "liberalism",
+  "src": "The liberals maintain that the only workable system of human cooperation in a society based on the division of labor is private ownership of the means of production."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.883999764919281,
+  "quote": "Em uma sociedade capitalista, cada indivíduo sabe que pode gozar do fruto do seu trabalho, que sua ren- da aumenta ou diminui dependendo se sua produtivi- dade é maior ou menor.",
+  "src_book": "liberalism",
+  "src": "In a capitalist society, every individual knows that the fruit of his labor is his own to enjoy, that his income increases or decreases according as the output of his labor is greater or smaller."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.9022925496101379,
+  "quote": "Em uma sociedade socialista, todo indivíduo pen- sará que menos depende da eficiência do seu pró- prio trabalho, pois uma parte fixa da produção total será dele de qualquer forma e a quantidade desta não pode ser diminuída de forma apreciável pela perda resultante da preguiça de um determinado indivíduo.",
+  "src_book": "liberalism",
+  "src": "In a socialist society, every individual will think that less depends on the efficiency of his own labor, since a fixed portion of the total output is due him in any case and the amount of the latter cannot be appreciably diminished by the loss resulting from the laziness of any one man."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8981496691703796,
+  "quote": "Ele busca produzir somente o bem-estar exterior porque sabe que as riquezas interiores, espirituais, não podem chegar ao homem de fora, mas somente de dentro de seu próprio coração.",
+  "src_book": "liberalism",
+  "src": "It seeks to produce only outer well-being because it knows that inner, spiritual riches cannot come to man from without, but only from within his own heart."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8635510802268982,
+  "quote": "O cálculo econômico capitalista, que em si já torna possível a produção racional, baseia-se no cálculo monetário.",
+  "src_book": "liberalism",
+  "src": "Capitalist economic calculation, which alone makes rational production possible, is based on monetary calculation."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8916903734207153,
+  "quote": "Tal sistema social [Socialismo], portanto, por ne- cessidade, careceria dos meios para uma gestão ra- cional das empresas, ou seja, do cálculo econômico.",
+  "src_book": "liberalism",
+  "src": "Such a social system would thus, of necessity, be lacking in the means for the rational management of business enterprises, viz., economic calculation."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8830493092536926,
+  "quote": "Pois se à maioria dos cidadãos é, em princípio, concedido o direito de impor seu modo de vida sobre a minoria, é impossível parar em proibições contra o uso de álcool, morfina, cocaína e drogas semelhantes.",
+  "src_book": "liberalism",
+  "src": "For if the majority of citizens is, in principle, conceded the right to impose its way of life upon a minority, it is impossible to stop at prohibitions against indulgence in alcohol, morphine, cocaine, and similar poisons."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.850051760673523,
+  "quote": "Por que aquilo que é válido para estas drogas não pode ser válido, também, para a nicotina, cafeína e semelhantes?",
+  "src_book": "liberalism",
+  "src": "Why should not what is valid for these poisons be valid also for nicotine, caffeine, and the like?"
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8983872532844543,
+  "quote": "Por que o estado não deveria, de forma geral, prescrever que alimentos podem ser consumidos e quais deveriam ser evitados por serem prejudiciais?",
+  "src_book": "liberalism",
+  "src": "Why should not the state generally prescribe which foods may be indulged in and which must be avoided because they are injurious?"
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7634785175323486,
+  "quote": "Também nos esportes muitas pessoas são propensas a ir muito além do que sua resistência permite. Por que o estado não deveria interferir neste caso também?",
+  "src_book": "liberalism",
+  "src": "In sports too, many people are prone to carry their indulgence further than their strength will allow."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8050510883331299,
+  "quote": "Vemos que assim que abrimos mão do princípio de que o estado não deve interferir em qualquer questão relacionada ao modo de vida dos indivíduos, acabamos regulando e restringindo este até o menor dos detalhes. A liberdade pessoal do indivíduo é abolida. Ele se torna um escravo da comunidade, fadado a obedecer o que é imposto pela maioria.",
+  "src_book": "liberalism",
+  "src": "We see that as soon as we surrender the principle that the state should not interfere in any questions touching on the individual’s mode of life, we end by regulating and restricting the latter down to the smallest detail."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7429320216178894,
+  "quote": "Hoje, grande parte das pessoas julga inadequadas as consideráveis diferenças de padrão de vida existentes entre muitos países... Hoje, todos os povos que não atingiram o padrão de vida médio dos Estados Unidos acreditam haver algo de errado na sua situação econômica.",
+  "src_book": "six_lessons",
+  "src": "Today, most people regard the considerable differences in the standard of living between many countries as unsatisfactory."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8002781867980957,
+  "quote": "A diferença entre as nações mais desenvolvidas e as menos desenvolvidas se estabelece em função do tempo. Os ingleses começaram a poupar antes de todas as outras nações. Consequentemente, também começaram antes a acu- mular capital e investi-lo em negócios. Este foi o fator primordial para que se alcançasse, na Grã-Bretanha, um padrão de vida bastante elevado numa época em que, em todos os outros países europeus, prevalecia ainda um padrão consi- deravelmente baixo.",
+  "src_book": "six_lessons",
+  "src": "The difference between the less developed and the more developed nations is a function of time: the British started to save sooner than all other nations: they also started sooner to accumulate capital and to invest it in business."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7669312357902527,
+  "quote": "Aconteceu, então, o fato mais importante da história do século XIX – e não me refiro apenas à história de um só país. Trata-se da expansão, no século XIX, do investimento externo... Sem esse investimento de capital, as nações menos de- senvolvidas que a Grã-Bretanha teriam sido obrigadas a iniciar o seu desenvolvi- mento utilizando-se dos mesmos métodos e tecnologia usados pelos britânicos em princípio e meados do século XVIII. Seria preciso procurar imitá-los lenta- mente, passo a passo.",
+  "src_book": "six_lessons",
+  "src": "Without capital investment, it would have been necessary for nations less developed than Great Britain to start with the methods and the technology with which the British had started in the beginning and middle of the eighteenth century, and slowly, step by step—always far below the technological level of the British economy—try to imitate what the British had done."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7635787129402161,
+  "quote": "Se afirmo que o investimento externo foi o maior acontecimento histórico do século XIX, faço-o no desejo de lembrar tudo aquilo que nem sequer existiria se não tivesse havido qualquer investimento externo. Todas as estradas de ferro, inúmeros portos, fábricas e minas da Ásia, o canal de Suez e muitas outras coi- sas no hemisfério ocidental não teriam sido construídos, não fosse o investimen- to externo.",
+  "src_book": "six_lessons",
+  "src": "All the railroads, the harbors, the factories and mines in Asia, and the Suez Canal and many other things in the Western hemisphere, would not have been constructed had there been no foreign investment."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8210729360580444,
+  "quote": "Uma única coisa falta para tornar os países em desenvolvimento tão próspe- ros quantos os Estados Unidos: capital. No entanto, é imprescindível que haja liberdade para empregá-lo sob a disciplina do mercado, não sob a do governo. É preciso que estas nações acumulem capital interno e viabilizem o ingresso do capital estrangeiro.",
+  "src_book": "six_lessons",
+  "src": "What is lacking in order to make the developing countries as prosperous as the United States is only one thing: capital —and, of course, the freedom to employ it under the discipline of the market and not the discipline of the government."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7418501377105713,
+  "quote": "seis palestras podem ser excessivas para um auditório, mas não são bastantes quando se quer expor toda a filosofia que embasa o sistema de livre economia",
+  "src_book": "six_lessons",
+  "src": "Six lectures may be very much for an audience, but they are not enough to develop the whole philosophy of a free economic system, and certainly not enough to refute all the nonsense that has been written in the last fifty years about the economic problems with which we are dealing."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.8722097873687744,
+  "quote": "Eis a função que a doutrina liberal atribuiu ao estado: a proteção da proprieda- de, da liberdade e da paz.",
+  "src_book": "liberalism",
+  "src": "This is the function that the liberal doctrine assigns to the state: the protection of property, liberty, and peace."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.9087321162223816,
+  "quote": "Todos que entram em um parlamento com a responsabilidade de lá decidir como o país deve ser governado devem estar imbuídos da convicção de que os interesses devidamente entendidos de todas as partes e membros da sociedade coincidem e que todo tipo de privilégio especial para certos grupos e classes da população é prejudicial ao bem comum, devendo ser eliminado.",
+  "src_book": "liberalism",
+  "src": "All who enter a parliament charged with the responsibility of there deciding how the country shall be governed must be imbued with the conviction that the rightly understood interests of all parts and members of society coincide and that every kind of special privilege for particular groups and classes of the population is detrimental to the common good and must be eliminated."
+ },
+ {
+  "book": "o-poder-das-ideias",
+  "sim": 0.7335535883903503,
+  "quote": "Provar que o cálculo econômico seria impossível na comunidade socialista tam- bém significa provar que o Socialismo é impraticável.",
+  "src_book": "mises_calc",
+  "src": "The knowledge of the fact that rational economic activity is impossible in a socialist commonwealth cannot, of course, be used as an argument either for or against socialism."
+ }
+]

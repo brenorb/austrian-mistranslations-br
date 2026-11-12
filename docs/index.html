@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Austrian Mistranslations BR</title>
+<meta name="description" content="Problemas de tradução em livros austríacos publicados em português do Brasil, classificados por tipo e gravidade, com a fonte de cada achado.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#explorar">Ir para os achados</a>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Auditoria de traduções · Escola Austríaca em português do Brasil</p>
+    <h1>Onde a tradução diz o que o autor não disse</h1>
+    <p class="lead">Comparamos as edições gratuitas do Mises Brasil com os textos originais do Mises Institute, frase por frase. Cada problema abaixo tem tipo, gravidade e a fonte exata nos dois idiomas.</p>
+    <dl class="stats" id="stats" aria-label="Resumo"></dl>
+    <figure class="case" id="case" aria-label="O caso do tweet"></figure>
+  </div>
+</header>
+
+<main>
+  <section id="explorar" class="wrap explore" aria-labelledby="h-explorar">
+    <h2 id="h-explorar" class="sr">Explorar os achados</h2>
+
+    <aside class="filters" id="filters" aria-label="Filtros">
+      <div class="filters-head">
+        <h3>Filtros</h3>
+        <button class="link" id="reset" type="button">Limpar</button>
+      </div>
+
+      <label class="field">
+        <span>Buscar</span>
+        <input id="q" type="search" placeholder="palavra, livro, número…  ( / )" autocomplete="off">
+      </label>
+
+      <fieldset>
+        <legend>Gravidade</legend>
+        <div class="chips" id="f-grav"></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Tipo</legend>
+        <div id="f-tipo"></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Livro</legend>
+        <div class="chips col" id="f-livro"></div>
+      </fieldset>
+
+      <section class="matrix-wrap" aria-labelledby="h-matrix">
+        <h4 id="h-matrix">Mapa: tipo × gravidade</h4>
+        <div id="matrix" role="group" aria-label="Clique numa célula para filtrar"></div>
+      </section>
+    </aside>
+
+    <div class="results">
+      <div class="bar">
+        <button class="btn filters-toggle" id="toggle" type="button" aria-expanded="false" aria-controls="filters">Filtros</button>
+        <p id="count" class="count" aria-live="polite"></p>
+        <label class="sort">Ordenar
+          <select id="sort">
+            <option value="grav">Gravidade (maior primeiro)</option>
+            <option value="livro">Livro</option>
+            <option value="tipo">Tipo</option>
+          </select>
+        </label>
+      </div>
+      <div id="active" class="active" aria-label="Filtros ativos"></div>
+      <ol id="list" class="list"></ol>
+      <p id="empty" class="empty" hidden>Nenhum achado com esses filtros. <button class="link" id="reset2" type="button">Limpar filtros</button></p>
+    </div>
+  </section>
+
+  <section id="livros" class="wrap" aria-labelledby="h-livros">
+    <h2 id="h-livros">Cobertura: os livros do Mises Brasil</h2>
+    <p class="muted" id="cov-sum"></p>
+    <div class="chips" id="cov-filter" role="group" aria-label="Filtrar livros por situação"></div>
+    <div class="table-wrap">
+      <table id="cov">
+        <thead><tr><th>Livro</th><th class="num">Palavras</th><th>Situação</th><th class="num">Achados</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="metodo" class="wrap prose" aria-labelledby="h-metodo">
+    <h2 id="h-metodo">Como foi feito</h2>
+    <ol>
+      <li><strong>Textos.</strong> PDFs gratuitos do <a href="https://mises.org.br/livros/">Mises Brasil</a> e originais do <a href="https://mises.org/library/books">Mises Institute</a> (EPUB/PDF).</li>
+      <li><strong>Alinhamento.</strong> Cada frase é convertida num vetor multilíngue (LaBSE) e alinhada à frase correspondente do original.</li>
+      <li><strong>Detectores.</strong> Frases sem correspondente (acréscimos), frases muito mais longas, números e unidades diferentes, negações perdidas, palavras-chave omitidas, sentidos divergentes.</li>
+      <li><strong>Leitura humana.</strong> Cada achado publicado aqui foi lido nos dois idiomas e conferido contra o texto inteiro do original. Vários candidatos automáticos foram descartados nessa etapa.</li>
+    </ol>
+    <h3>Limites</h3>
+    <ul>
+      <li>33 dos 52 livros puderam ser comparados com uma fonte. Os outros são originais brasileiros ou não têm versão gratuita (ver tabela).</li>
+      <li>O método não vê erros que mantêm o tamanho e os números da frase (um termo técnico trocado, um conectivo alterado). A ausência de achados num livro <em>não prova</em> que ele é fiel.</li>
+      <li>Diferenças entre edições (por exemplo, Ação Humana, Hazlitt) podem parecer acréscimos. Só publicamos o que falta ou contradiz o texto original que temos; onde há dúvida, o card traz uma ressalva.</li>
+      <li>A gravidade é um julgamento nosso, de 1 a 5: <strong>1</strong> trivial · <strong>2</strong> menor · <strong>3</strong> moderado (muda a ideia da frase) · <strong>4</strong> grave (muda fatos ou atribui tese ao autor) · <strong>5</strong> grotesco (absurdo evidente ou invenção de peso).</li>
+    </ul>
+    <p>Código, dados e relatório completo: <a id="repo" href="#">repositório</a>.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Excertos curtos de obras protegidas, reproduzidos para análise e crítica, sempre com a fonte. Os livros completos estão nos links de cada achado. Este site não tem relação com os autores nem com as editoras.</p>
+    <p class="muted" id="gerado"></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
