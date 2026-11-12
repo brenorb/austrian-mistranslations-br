@@ -1,0 +1,1635 @@
+[
+ {
+  "id": "a01",
+  "titulo": "Uma frase de 26 palavras vira duas frases e 62 palavras (o caso do tweet)",
+  "nota": "O caso do tweet de J. P. Mayall. O inglês tem UMA frase (26 palavras). O português tem duas (62). A primeira perde a palavra “abstract”, que é o alvo da crítica de Rothbard à “unidade de conta abstrata”. A segunda é inventada: diz que unidade de conta e “reserva de valor” derivam da função de meio de troca. “Store of value” aparece uma única vez no livro em inglês, em outro trecho, onde Rothbard descarta a lista de “funções” do dinheiro como meros aspectos da função de meio de troca.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "CONCEPT_INJECTION",
+  "tipo_rotulo": "Conceito inserido",
+  "tipo_desc": "A tradução afirma algo que o autor não afirma naquele ponto.",
+  "gravidade": 5,
+  "gravidade_rotulo": "Grotesco",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "It is important to realize that money cannot be an abstract unit of account or claim, except insofar as it serves as a medium of exchange.",
+  "pt": "É importante entender que o dinheiro só pode ser visto como uma unidade de conta ou como um título de reivindicação sobre bens a partir do momento em que ele passa a servir como um meio de troca. É de sua função como meio de troca que derivam todas as suas outras características, como ser unidade de conta e reserva de valor.",
+  "en_mark": [
+   "cannot be an abstract unit of account or claim"
+  ],
+  "pt_mark": [
+   "só pode ser visto como uma unidade de conta",
+   "É de sua função como meio de troca que derivam todas as suas outras características, como ser unidade de conta e reserva de valor."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 19,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a02",
+  "titulo": "“Dinheiro puramente eletrônico” num livro de 1963",
+  "nota": "Inglês: “se os bancos mantêm uma razão reservas/depósitos de 1:10, reservas excedentes de 10 milhões permitirão uma inflação bancária de 100 milhões” (34 palavras). Português: 101 palavras em três frases, com uma definição entre parênteses (“todo o resto é dinheiro puramente eletrônico, sem nenhum lastro”) e um exemplo numérico novo. A palavra “electronic” aparece zero vezes no livro em inglês.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "ANACHRONISM",
+  "tipo_rotulo": "Anacronismo",
+  "tipo_desc": "Termo ou ideia que não existia quando o livro foi escrito.",
+  "gravidade": 5,
+  "gravidade_rotulo": "Grotesco",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "The Central Bank can stimulate inflation, then, by pouring reserves into the banking system, and also by lowering the reserve ratio, thus permitting a nationwide bank credit expansion. If the banks keep a reserve/deposit ratio of 1:10, then “excess reserves” (above the required ratio) of ten million dollars will permit and encourage a nationwide bank inflation of one hundred million. Since banks profit by credit expansion, and since government has made it almost impossible for them to fail, they will usually try to keep “loaned up” to their allowable maximum.",
+  "pt": "O Banco Central, desta forma, pode estimular a inflação injetando reservas no sistema bancário. Pode também reduzir a taxa do compulsório, permitindo assim uma maior expansão creditícia dos bancos. Se os bancos são requeridos a manter um compulsório de 10% (o que significa que para cada $100.000.000 em depósitos bancários há apenas $10.000.000 em reservas bancárias; todo o resto é dinheiro puramente eletrônico, sem nenhum lastro), então qualquer valor em reservas que exceda estes 10% permitirá uma nova rodada de inflação monetária. Se houver, por exemplo, uma quantia excedente de $1.000.000 nas reservas bancárias, tal valor permitirá a criação de empréstimos (inflação monetária) no valor de $10.000.000. Dado que os bancos lucram com a expansão de crédito, e dado que o governo os tornou quase imunes à falência, eles estarão sempre se esforçando para criar crédito até o limite máximo permitido.",
+  "en_mark": [
+   "reserve/deposit ratio of 1:10"
+  ],
+  "pt_mark": [
+   "todo o resto é dinheiro puramente eletrônico, sem nenhum lastro",
+   "Se houver, por exemplo, uma quantia excedente de $1.000.000 nas reservas bancárias, tal valor permitirá a criação de empréstimos (inflação monetária) no valor de $10.000.000."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 65,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "II. Government Meddling with Money",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a03",
+  "titulo": "Uma generalização sobre a demanda por dinheiro que Rothbard não faz",
+  "nota": "Frase nova: “Toda e qualquer demanda por dinheiro ocorre porque as pessoas podem utilizar aquele bem para calcular preços.” Não existe no inglês. Desloca a ênfase do teorema da regressão (a demanda por dinheiro vem da função de troca somada à demanda não monetária anterior) para o cálculo de preços.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "CONCEPT_INJECTION",
+  "tipo_rotulo": "Conceito inserido",
+  "tipo_desc": "A tradução afirma algo que o autor não afirma naquele ponto.",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "Money cannot originate in any other way, neither by everyone suddenly deciding to create money out of useless material, nor by government calling bits of paper “money.” For embedded in the demand for money is knowledge of the money prices of the immediate past; in contrast to directly-used consumers’ or producers’ goods, money must have pre-existing prices on which to ground a demand.",
+  "pt": "O dinheiro não pode se originar de nenhuma outra maneira: mesmo que as pessoas repentinamente decidam criar dinheiro utilizando materiais inúteis, ou o governo decrete que determinados pedaços de papel agora são “dinheiro”, nada disso pode funcionar se o bem estipulado não possuir um histórico como meio de troca. Toda e qualquer demanda por dinheiro ocorre porque as pessoas podem utilizar aquele bem para calcular preços. Incorporado na demanda pelo dinheiro está o conhecimento dos preços do passado imediato. Ao contrário dos bens diretamente utilizados pelos consumidores e pelos empreendedores, a mercadoria a ser utilizada como dinheiro tem de apresentar um histórico de expressão de valores na forma de preços. Antes de tal produto ser definido como dinheiro, ele tem de possuir um passado no qual ele foi utilizado como definidor de preços.",
+  "en_mark": [],
+  "pt_mark": [
+   "Toda e qualquer demanda por dinheiro ocorre porque as pessoas podem utilizar aquele bem para calcular preços."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 16,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a04",
+  "titulo": "Bloco de macroeconomia didática sem correspondente no inglês",
+  "nota": "Cerca de 60 palavras de economia nova (“um aumento na quantidade de bens e serviços aumenta o poder de compra do dinheiro… se um setor é mais produtivo, seus preços caem mais…”). A melhor correspondência semântica em todo o livro em inglês tem similaridade 0,55, ou seja, é outra frase.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "CONCEPT_INJECTION",
+  "tipo_rotulo": "Conceito inserido",
+  "tipo_desc": "A tradução afirma algo que o autor não afirma naquele ponto.",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "",
+  "pt": "Mas isso, como já vimos, é uma impossibilidade. Um aumento na quantidade de bens e serviços aumenta o poder de compra do dinheiro. Uma redução nessa quantidade diminui o poder de compra. Se um determinado setor da economia é mais produtivo do que outro setor, seus preços cairão mais. Da mesma forma, uma simples alteração nas preferências dos indivíduos por determinados bens e serviços pode alterar os preços de toda a economia.",
+  "en_mark": [],
+  "pt_mark": [
+   "Um aumento na quantidade de bens e serviços aumenta o poder de compra do dinheiro. Uma redução nessa quantidade diminui o poder de compra. Se um determinado setor da economia é mais produtivo do que outro setor, seus preços cairão mais."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 33,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a05",
+  "titulo": "Outro bloco inventado sobre produtividade e padrão de vida",
+  "nota": "Cerca de 100 palavras sobre produtividade, preços em queda e padrão de vida, na seção sobre estabilizar o nível de preços. Buscar no livro em inglês por “more productive”, “fixed measure”, “rise in living standards” ou “prices (and costs)” não retorna nada.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "CONCEPT_INJECTION",
+  "tipo_rotulo": "Conceito inserido",
+  "tipo_desc": "A tradução afirma algo que o autor não afirma naquele ponto.",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "",
+  "pt": "Com efeito, a estabilização artificial do valor do dinheiro iria distorcer e afetar seriamente as atividades do mercado. Como já aludimos na seção anterior, as pessoas inevitavelmente teriam frustrados seus desejos de alterar a real proporção de seus encaixes; não haveria nenhuma oportunidade de alterar seus encaixes em relação aos preços. No que mais, um genuíno aumento no padrão de vida das pessoas decorre de investimentos em capital, o que aumenta a produtividade. E um aumento na produtividade tende a reduzir os preços (e os custos) e, por conseguinte, a distribuir os frutos da livre iniciativa para todo o público, elevando o padrão de vida de todos os consumidores. Aumentar forçadamente o nível dos preços impede essa disseminação de um padrão de vida mais elevado.",
+  "en_mark": [],
+  "pt_mark": [
+   "No que mais, um genuíno aumento no padrão de vida das pessoas decorre de investimentos em capital, o que aumenta a produtividade. E um aumento na produtividade tende a reduzir os preços (e os custos)"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 34,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a06",
+  "titulo": "O capítulo IV abre com três frases que não são de Rothbard",
+  "nota": "Antes do texto de Rothbard, o português insere: “desde que o Ocidente abandonou o padrão-ouro clássico em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior…”. Voz editorial, sem marcação.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "POLEMIC_INSERTION",
+  "tipo_rotulo": "Opinião inserida",
+  "tipo_desc": "Frases novas, em tom editorial, na voz do autor.",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "The Monetary Breakdown of the West",
+  "pt": "O Colapso Monetário do Ocidente Desde que o Ocidente abandonou o padrão-ouro clássico (em que as transações eram feitas em moedas de ouro ou em certificados lastreados 100% em ouro) em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior. Os países adotam câmbios fixos e logo depois se arrependem e retornam para o câmbio flutuante. Alguns fazem o movimento inverso. Outros preferem um sistema amorfo, onde ambos os esquemas são mantidos simultaneamente.",
+  "en_mark": [],
+  "pt_mark": [
+   "Desde que o Ocidente abandonou o padrão-ouro clássico (em que as transações eram feitas em moedas de ouro ou em certificados lastreados 100% em ouro) em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior. Os países adotam câmbios fixos e logo depois se arrependem e retornam para o câmbio flutuante. Alguns fazem o movimento inverso. Outros preferem um sistema amorfo, onde ambos os esquemas são mantidos simultaneamente."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 75,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "III. The Monetary Breakdown of the West",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a07",
+  "titulo": "Uma hipótese vira afirmação e a CEE vira um nome",
+  "nota": "Inglês: o esforço por uma moeda europeia “parece estar à beira do sucesso” e é vendido ao público pela alegação falaciosa de que uma Comunidade Econômica Europeia (CEE) de livre comércio exigiria burocracia central. Português: “A Europa já está prestes a adotar um papel-moeda único” (afirmação seca), a CEE vira “área de livre comércio que será chamada de CEE” (a alegação vira uma frase de nomenclatura) e entra uma frase nova (“A ideia dos burocratas é fazer o público crer…”).",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "MEANING_SHIFT",
+  "tipo_rotulo": "Mudança de sentido",
+  "tipo_desc": "O texto diz algo diferente do original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "Already the world’s major central banks are attempting to “coordinate” monetary and economic policies, harmonize rates of inflation, and fix exchange rates. The militant drive for a European paper currency issued by a European central bank seems on the verge of success. This goal is being sold to the gullible public by the fallacious claim that a free-trade European Economic Community (EEC) necessarily requires an overarching European bureaucracy, a uniformity of taxation throughout the EEC, and, in particular, a European central bank and paper unit.",
+  "pt": "Os principais bancos centrais mundiais já estão tentando “coordenar” suas políticas monetárias e econômicas, harmonizar suas taxas de inflação e fixar suas taxas de câmbio. A Europa já está prestes a adotar um papel-moeda único, emitido por um banco central europeu. Tal objetivo está sendo falaciosamente justificado ao ingênuo público como sendo necessário para a adoção de uma área de livre comércio – que será chamada de Comunidade Econômica Europeia (CEE). A ideia dos burocratas é fazer o público crer que uma área de livre comércio necessariamente requer uma mastodôntica burocracia, uma taxação uniforme por toda a CEE, e, em particular, um banco central europeu e um papel-moeda único.",
+  "en_mark": [
+   "seems on the verge of success",
+   "free-trade European Economic Community (EEC)"
+  ],
+  "pt_mark": [
+   "A Europa já está prestes a adotar um papel-moeda único",
+   "que será chamada de Comunidade Econômica Europeia (CEE)",
+   "A ideia dos burocratas é fazer o público crer que"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 91,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "III. The Monetary Breakdown of the West",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a08",
+  "titulo": "“Descumprimento do dever dos estados” vira “privilégio estatal”",
+  "nota": "Inglês: quem cita a América do século XIX como exemplo de free banking “não percebe a importância deste claro descumprimento do dever pelos estados”. Português: não percebe “este explícito privilégio estatal que protegia os bancos e os eximia de restituir em espécie”. É outra tese (privilégio legal em vez de omissão dos estados), e “free banking” ganha um parêntese.",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "MEANING_SHIFT",
+  "tipo_rotulo": "Mudança de sentido",
+  "tipo_desc": "O texto diz algo diferente do original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "Those writers who point to nineteenth-century America as a horrid example of “free banking,” fail to realize the importance of this clear dereliction of duty by the states in every financial crisis. The governments and the banks persuaded the public of the justice of their acts.",
+  "pt": "Aqueles autores que ressaltam os Estados Unidos do século XIX como sendo um péssimo exemplo de “sistema bancário livre” (free banking) são incapazes de perceber a importância deste explícito privilégio estatal que protegia os bancos e os eximia da obrigação de restituir em espécie seus recibos bancários. Os governos e os bancos conseguiram persuadir o público a respeito da justiça de tais atos.",
+  "en_mark": [
+   "fail to realize the importance of this clear dereliction of duty by the states"
+  ],
+  "pt_mark": [
+   "são incapazes de perceber a importância deste explícito privilégio estatal que protegia os bancos e os eximia da obrigação de restituir em espécie seus recibos bancários"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 60,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "II. Government Meddling with Money",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a09",
+  "titulo": "Hiperinflação na América Latina entra na lista de Rothbard",
+  "nota": "A lista de hiperinflações do inglês termina nos assignats, nos continentais, na Alemanha de 1923 e na China. O português acrescenta: “Mais recentemente, hiperinflações devastaram os principais países da América Latina.” Fato posterior ao livro, sem nota.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "UPDATE_INSERTION",
+  "tipo_rotulo": "Atualização não marcada",
+  "tipo_desc": "Fatos ou figuras posteriores ao livro, sem aviso.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "This condition of hyper-inflation is familiar historically in the assignats of the French Revolution, the Continentals of the American Revolution, and especially the German crisis of 1923, and the Chinese and other currencies after World War II. A final indictment of inflation is that whenever the newly issued money is first used as loans to business, inflation causes the dread “business cycle.”",
+  "pt": "Esta situação de hiperinflação foi observada durante a Revolução Francesa com os assignats, durante a Revolução Americana com os continentais e, especialmente, durante a crise alemã de 1923 com o marco. Foi também vivenciada pela China e por outros países após a Segunda Guerra Mundial.22 Mais recentemente, hiperinflações devastaram os principais países da América Latina. Por fim, uma última condenação da inflação é o fato de que, sempre que o dinheiro recém-criado é utilizado para conceder empréstimos, essa inflação gera os pavorosos “ciclos econômicos”.",
+  "en_mark": [],
+  "pt_mark": [
+   "Mais recentemente, hiperinflações devastaram os principais países da América Latina."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 51,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "II. Government Meddling with Money",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a10",
+  "titulo": "Figura e interpretação do IPC que não estão no original",
+  "nota": "Duas frases novas: “A figura abaixo mostra a evolução do índice de preços ao consumidor… a partir de Bretton Woods, em 1944, já começa a haver uma aceleração…”. Não constam na edição em inglês.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "UPDATE_INSERTION",
+  "tipo_rotulo": "Atualização não marcada",
+  "tipo_desc": "Fatos ou figuras posteriores ao livro, sem aviso.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "Since the U.S. went completely off gold in August 1971 and established the Friedmanite fluctuating fiat system in March 1973, the United States and the world have suffered the most intense and most sustained bout of peacetime inflation in the history of the world.",
+  "pt": "Desde que os Estados Unidos abandonaram completamente o ouro em agosto de 1971 e estabeleceram o friedmaniano sistema de papel-moeda flutuante em março de 1973, os Estados Unidos e o mundo sofreram o mais intenso, o mais constante e o mais prolongado período inflacionário da história mundial. A figura abaixo mostra a evolução do índice de preços ao consumidor nos Estados Unidos. A partir de Bretton Woods, em 1944, já começa a haver uma aceleração, que é fortemente intensificada após o abandono completo do padrão-ouro, em 1971.",
+  "en_mark": [],
+  "pt_mark": [
+   "A figura abaixo mostra a evolução do índice de preços ao consumidor nos Estados Unidos. A partir de Bretton Woods, em 1944, já começa a haver uma aceleração, que é fortemente intensificada após o abandono completo do padrão-ouro, em 1971."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 89,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "III. The Monetary Breakdown of the West",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a11",
+  "titulo": "Tese solta sobre a lei de Gresham inserida entre duas frases do original",
+  "nota": "Entre “esta formulação se baseia numa interpretação equivocada” e “a lei diz realmente que…”, o português coloca uma tese autônoma: “A lei de Gresham é válida apenas quando há um controle de preços imposto pelo governo sobre o dinheiro.”",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "But this formulation rests on a misinterpretation of Gresham’s famous law. The law really says that “money overvalued artificially by government will drive out of circulation artificially undervalued money.”",
+  "pt": "Mas essa formulação tem por base a interpretação equivocada da famosa lei de Gresham. A lei de Gresham é válida apenas quando há um controle de preços imposto pelo governo sobre o dinheiro. O que a lei de Gresham realmente diz é que “o dinheiro que está artificialmente sobrevalorizado pelo governo tirará de circulação o dinheiro que está artificialmente subvalorizado”.",
+  "en_mark": [
+   "misinterpretation of Gresham’s famous law"
+  ],
+  "pt_mark": [
+   "A lei de Gresham é válida apenas quando há um controle de preços imposto pelo governo sobre o dinheiro."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 24,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a12",
+  "titulo": "Metáfora inventada e autocontraditória: “pirâmide invertida”",
+  "nota": "Inglês: “uma pirâmide de dólares sobre o ouro, de libras sobre dólares…”. Português acrescenta “pirâmide invertida (invertida porque na base está o ouro e no corpo estão os dólares)”, metáfora que não existe no original e que, como explicada, não faz sentido.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "And most of these countries were induced by Britain to return to gold at overvalued parities. The result was a pyramiding of U.S. on gold, of British pounds on dollars, and of other European currencies on pounds—the “gold-exchange standard,” with the dollar and the pound as the two “key currencies.” Now when Britain inflated, and experienced a deficit in its balance of payments, the gold standard mechanism did not work to quickly restrict British inflation.",
+  "pt": "E a maioria desses países foi induzida pela GrãBretanha a retornar ao ouro a uma paridade sobrevalorizada. O resultado foi que os Estados Unidos criaram uma “pirâmide invertida” de dólares sobre o ouro (a pirâmide é invertida porque na base está o ouro e no corpo estão os dólares), a Grã-Bretanha piramidou suas libras sobre dólares e todas as outras moedas europeias piramidaram sobre libras – esse era o “padrão ourocâmbio”, com o dólar e a libra sendo as duas “moedas-chave”. Sendo assim, quando a Grã-Bretanha inflacionou e, por conseguinte, sofreu um déficit em seu balanço de pagamentos, o mecanismo do padrãoouro não funcionou de modo a restringir rapidamente essa inflação britânica.",
+  "en_mark": [
+   "pyramiding of U.S. on gold"
+  ],
+  "pt_mark": [
+   "pirâmide invertida",
+   "(a pirâmide é invertida porque na base está o ouro e no corpo estão os dólares)"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 80,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "III. The Monetary Breakdown of the West",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a13",
+  "titulo": "Explicação acrescentada sobre dólares sobrevalorizados",
+  "nota": "Frase nova entre o texto sobre a Fed e o ataque de De Gaulle: “os dólares, cada vez mais sobrevalorizados, pois sua oferta havia aumentado… mas seu preço continuava fixo em relação ao ouro”.",
+  "ressalva": "O texto em português pode seguir uma versão mais nova do autor; não dá para atribuir ao tradutor.",
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "European countries such as France, Western Germany, Switzerland, and Italy followed a less inflationary monetary policy under the influence of economists familiar with the Austrian school of economics. The gold reserve ratio of the Fed was reduced and overvalued dollars accumulated in European central banks until Charles de Gaulle finally initiated a run, presenting French dollars for gold at the Federal Reserve.",
+  "pt": "Países europeus como a França, a Alemanha Ocidental, a Suíça e a Itália adotaram políticas monetárias menos inflacionistas, pois estavam sob a influência de economistas familiarizados com os ensinamentos da Escola Austríaca de economia. As reservas de ouro do Federal Reserve foram diminuindo e os dólares — cada vez mais sobrevalorizados, pois sua oferta havia aumentado sobremaneira, mas seu preço continuava fixo em relação ao ouro — foram se acumulando nos bancos centrais europeus. Até que Charles de Gaulle deu início a uma corrida ao Fed, exigindo que os dólares acumulados pelo banco central francês fossem restituídos em ouro.",
+  "en_mark": [
+   "overvalued dollars accumulated in European central banks"
+  ],
+  "pt_mark": [
+   "As reservas de ouro do Federal Reserve foram diminuindo e os dólares — cada vez mais sobrevalorizados, pois sua oferta havia aumentado sobremaneira, mas seu preço continuava fixo em relação ao ouro — foram se acumulando nos bancos centrais europeus."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 28,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "2. The Dynamics of Fiat Money",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a14",
+  "titulo": "Explicação sobre déficit comercial e títulos públicos sem origem",
+  "nota": "Frase de 39 palavras que explica como o déficit comercial acaba financiado por títulos do governo. Não existe no texto em inglês.",
+  "ressalva": "O texto em português pode seguir uma versão mais nova do autor.",
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "Greek (or Spanish) government debts are largely held by foreign banks due to their trade deficits. Greeks did not save enough to buy their government debts, but preferred instead to import more goods and services than they exported.",
+  "pt": "As dívidas dos governos grego e espanhol estão majoritariamente em posse de bancos estrangeiros por causa de seus déficits comerciais. Isso ocorre porque, quando há um déficit comercial, o país estrangeiro (o exportador) recebe moeda do país importador, a qual ele utiliza para reinvestir neste país importador — e geralmente o investimento se dá em títulos do governo deste país. Os gregos não pouparam o suficiente para poder comprar os títulos da dívida de seu próprio governo, preferindo ao invés disso gastar importando mais bens e serviços do que exportavam.",
+  "en_mark": [],
+  "pt_mark": [
+   "Isso ocorre porque, quando há um déficit comercial, o país estrangeiro (o exportador) recebe moeda do país importador, a qual ele utiliza para reinvestir neste país importador — e geralmente o investimento se dá em títulos do governo deste país."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 53,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "4. Why High Inflation Countries Wanted the Euro",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a15",
+  "titulo": "Frase de 16 palavras vira três frases e 146 palavras",
+  "nota": "“As taxas de câmbio relativamente altas fixadas para sempre no euro também beneficiaram os países de alta inflação” (16 palavras) vira três frases com explicação sobre o marco alemão, poder de compra e sobre italianos, espanhóis e gregos.",
+  "ressalva": "O texto em português pode seguir uma versão mais nova do autor.",
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "The relatively high exchange rates fixed forever in the Euro benefitted high inflation countries as well. Durable consumer goods such as cars or houses were bought, leading to housing booms, the most spectacular of which was in Spain.",
+  "pt": "Ao mesmo tempo, as taxas de câmbio fixadas em níveis relativamente altos em toda a zona do euro — o que significa que as moedas dos países inflacionistas se tornaram sobrevalorizadas — beneficiaram estes países inflacionistas, fazendo com que os preços das importações caíssem dramaticamente nos países periféricos. Italianos, espanhóis e gregos — pessoas acostumadas a moedas mais fracas que as de seus vizinhos do norte da Europa — vivenciaram uma poderosa valorização de suas moedas quando houve a convergência monetária no final da década de 1990 e início da década de 2000. Como a adoção do euro significou um valor comum para todas as moedas, e como a economia alemã — com seu poderoso marco alemão — era a que predominava sobre toda a Europa, o resultado foi que esses países periféricos passaram a ter uma unidade monetária com maior poder de compra do que suas moedas locais até então vigentes. Bens de consumo duráveis, como carros e imóveis, passaram a ser adquiridos em maior volume, levando a um acentuado crescimento do setor imobiliário, o mais espetacular deles ocorrendo na Espanha.",
+  "en_mark": [
+   "The relatively high exchange rates fixed forever in the Euro benefitted high inflation countries as well."
+  ],
+  "pt_mark": [
+   "Como a adoção do euro significou um valor comum para todas as moedas, e como a economia alemã"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 135,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "11. The Future of the Euro",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a16",
+  "titulo": "“(eletrônico ou físico)” sobre como o BCE cria dinheiro",
+  "nota": "Pequeno glossário acrescentado entre parênteses.",
+  "ressalva": null,
+  "familia": "acrescimo",
+  "familia_rotulo": "Acréscimo sem origem",
+  "tipo": "ANACHRONISM",
+  "tipo_rotulo": "Anacronismo",
+  "tipo_desc": "Termo ou ideia que não existia quando o livro foi escrito.",
+  "gravidade": 1,
+  "gravidade_rotulo": "Trivial",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "They exchange the money against government bonds and use them to refinance with the ECB.",
+  "pt": "Eles adquirem títulos públicos com este dinheiro e os utilizam em operações junto ao BCE. Nessas operações, o BCE cria dinheiro (eletrônico ou físico) e compra os títulos públicos, ou os aceita como colateral, em troca do dinheiro criado do nada. Esse dinheiro vai parar nas reservas dos bancos.",
+  "en_mark": [],
+  "pt_mark": [
+   "(eletrônico ou físico)"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 90,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "8. The EMU as a Self-Destroying System",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a17",
+  "titulo": "200 milhões de bushels de trigo viram “1,6 bilhão de galões de trigo”",
+  "nota": "A unidade é convertida em silêncio para uma medida de líquido (galão), que não faz sentido para trigo. O número também muda por conversão (200 milhões × 8).",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "UNIT_ERROR",
+  "tipo_rotulo": "Unidade errada",
+  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "Bravely, the GSC bought 200 million more bushels by mid-1931, but all to no avail.",
+  "pt": "Bravamente, o GSC comprou mais 1,6 bilhão de galões de trigo em meados de 1931, sem que isso adiantasse de nada.",
+  "en_mark": [
+   "200 million more bushels"
+  ],
+  "pt_mark": [
+   "1,6 bilhão de galões de trigo"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 247,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "8. The Depression Begins: President Hoover Takes Command",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a18",
+  "titulo": "1,25 milhão de fardos de algodão viram “280 milhões de toneladas”",
+  "nota": "“Bales” vira “toneladas” e o número muda por três ordens de grandeza em relação ao que o mesmo livro usa em outros pontos para a mesma quantidade (“280 mil toneladas”). 280 milhões de toneladas seria cerca de três vezes a produção mundial anual de algodão.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "UNIT_ERROR",
+  "tipo_rotulo": "Unidade errada",
+  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
+  "gravidade": 5,
+  "gravidade_rotulo": "Grotesco",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "The CSC took over 1.25 million bales from the coops.",
+  "pt": "A CSC ficou com mais de 280 milhões de toneladas de algodão das cooperativas.",
+  "en_mark": [
+   "1.25 million bales"
+  ],
+  "pt_mark": [
+   "280 milhões de toneladas de algodão"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 247,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "8. The Depression Begins: President Hoover Takes Command",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a19",
+  "titulo": "Fardos de algodão convertidos em toneladas sem nota",
+  "nota": "“1.3 million bales” vira “280 mil toneladas”: unidade trocada e número que já não bate com as tabelas do original.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "UNIT_ERROR",
+  "tipo_rotulo": "Unidade errada",
+  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "In early 1932, the Board then tried an heroic action—along with its 1.3 million bales, it obtained an agreement from southern bankers to withhold all of their cotton (3.5 million bales), while it continued to finance 2.1 million bales held by the coops.",
+  "pt": "No começo de 1932, o FFB tentou uma ação heroica – junto com suas 280 mil toneladas de algodão, conseguiu um acordo dos banqueiros do sul para que eles retivessem todo seu algodão (760 mil toneladas), enquanto continuava a financiar as 460 mil toneladas em poder das cooperativas.",
+  "en_mark": [
+   "1.3 million bales"
+  ],
+  "pt_mark": [
+   "280 mil toneladas de algodão"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 247,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "8. The Depression Begins: President Hoover Takes Command",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a20",
+  "titulo": "Período 1921–1933 vira “1921 a 1923”",
+  "nota": "Ano trocado numa frase que define o recorte histórico do argumento.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "If we were writing an economic history of the 1921–1933 period, our task would be to try to isolate and explain all the causal threads in the fabric of statistical and other historical events.",
+  "pt": "Se estivéssemos escrevendo uma história econômica do período que vai de 1921 a 1923, teríamos de tentar isolar e explicar todos os feixes causais do tecido de estatísticas e dos demais acontecimentos históricos.",
+  "en_mark": [
+   "1921–1933"
+  ],
+  "pt_mark": [
+   "1921 a 1923"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 118,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "4. The Inflationary Factors",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a21",
+  "titulo": "US$ 64,72 bilhões vira US$ 64,27 bilhões (e contradiz a própria frase)",
+  "nota": "Dígitos trocados. A frase em português diz que a oferta monetária caiu US$ 3,5 bilhões, mas 68,25 − 64,27 = 3,98. O original (68,25 − 64,72 = 3,53) bate.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "Instead, the money supply fell by $3.5 billion during 1932, from $68.25 to $64.72 billion at the end of the year, and with the bank deposit component falling by $3.2 billion.",
+  "pt": "Em vez disso, a oferta monetária caiu US$ 3,5 bilhões durante 1932, de US$ 68,25 bilhões para US$ 64,27 bilhões ao fim do ano, com uma queda de US$ 3,2 bilhões no componente de depósitos bancários.",
+  "en_mark": [
+   "$64.72 billion"
+  ],
+  "pt_mark": [
+   "US$ 64,27 bilhões"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 310,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "11. THE HOOVER NEW DEAL OF 1932",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a22",
+  "titulo": "56,1% vira 51,6%",
+  "nota": "Dígitos trocados num dado estatístico.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "The average part-time proportion for the entire sample was 56.1 percent.",
+  "pt": "A proporção média de meio-período para a amostra inteira era de 51,6%.19",
+  "en_mark": [
+   "56.1 percent"
+  ],
+  "pt_mark": [
+   "51,6%"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 340,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "12. The Close Of The Hoover Term",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a23",
+  "titulo": "O mesmo parafuso tem 12,7 milímetros e 12,7 centímetros na mesma frase",
+  "nota": "Inglês: “quem compra um parafuso de 1/2 polegada deve receber um de 1/2 polegada e não um de 3/8”. Português: “12,7 milímetros (1/2 polegada) … um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros”. O parafuso passa a ser dez vezes maior no meio da frase.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "UNIT_ERROR",
+  "tipo_rotulo": "Unidade errada",
+  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
+  "gravidade": 5,
+  "gravidade_rotulo": "Grotesco",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "The buyer of a 1/2 inch bolt must get a 1/2 inch bolt and not a mere 3/8 inch.",
+  "pt": "O comprador de um parafuso de 12,7 milímetros (1/2 polegada) deve obter um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros.",
+  "en_mark": [
+   "a 1/2 inch bolt and not a mere 3/8 inch"
+  ],
+  "pt_mark": [
+   "12,7 milímetros (1/2 polegada)",
+   "exatamente 12,7 centímetros"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 23,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a24",
+  "titulo": "“Frasco de 8 onças” vira “250 mililitros” sem nota",
+  "nota": "Medida adaptada ao leitor brasileiro (8 fl oz ≈ 237 ml) sem nota do tradutor; a mesma passagem converte libras em quilos.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "UNMARKED_LOCALISATION",
+  "tipo_rotulo": "Conversão não marcada",
+  "tipo_desc": "Medida adaptada ao leitor sem nota do tradutor.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "whgd",
+  "livro": "O que o governo fez com o nosso dinheiro?",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "What Has Government Done to Our Money?",
+  "en": "The drug store sells an eight ounce bottle of medicine; the meat packer sells a pound of beef.",
+  "pt": "A farmácia vende um frasco de 250 mililitros de remédio; o açougueiro vende um quilo de carne.",
+  "en_mark": [
+   "eight ounce bottle"
+  ],
+  "pt_mark": [
+   "250 mililitros"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O que o governo fez com o nosso dinheiro?",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Leandro Augusto Gomes Roque (rev.: Tatiana Villas Boas Gabbi; rev. final: Fernando Ulrich)",
+    "pagina_pdf": 23,
+    "pagina_url": "https://mises.org.br/livros/16668/o-que-o-governo-fez-com-o-nosso-dinheiro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+que+o+governo+fez+com+o+nosso+dinheiro.pdf"
+   },
+   "en": {
+    "titulo": "What Has Government Done to Our Money?",
+    "edicao": "Mises Institute, edição 2024 (EPUB)",
+    "url": "https://mises.org/library/book/what-has-government-done-our-money",
+    "capitulo": "I. Money in a Free Society",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a25",
+  "titulo": "Valores em euro multiplicados por ~1,43 mantendo o símbolo €",
+  "nota": "Inglês: bancos da zona do euro tinham €144 bi de exposição à Grécia e €507 bi à Espanha. Português: €206 bi e €727 bi. As cinco frases seguintes mudam do mesmo modo (344→493, 324→465, 173→248, 141→202, 77→110): fator constante ≈1,43, típico de uma conversão euro→dólar, mas com o símbolo € mantido. Ou é conversão silenciosa mal rotulada ou são outros dados; em ambos os casos não é o que o original diz.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 5,
+  "gravidade_rotulo": "Grotesco",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "Banks headquartered in the Eurozone had €144 billion exposure to Greece, but €507 billion to Spain.",
+  "pt": "Bancos sediados na zona do euro haviam emprestado um total de €206 bilhões para Grécia, mas, para a Espanha, este valor chegava a €727 bilhões.",
+  "en_mark": [
+   "€144 billion",
+   "€507 billion"
+  ],
+  "pt_mark": [
+   "€206 bilhões",
+   "€727 bilhões"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 112,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "10. The Ride Toward Collapse",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a26",
+  "titulo": "Pacote da Grécia: €110 bi vira €240 bi (e o próprio livro diz 110)",
+  "nota": "O mesmo texto em português cita 110 bilhões de euros para o mesmo pacote algumas páginas antes.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 4,
+  "gravidade_rotulo": "Grave",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "The €110 billion granted to Greece may itself not be enough.",
+  "pt": "Os €240 bilhões dados à Grécia podem, por si sós, não ser suficientes.",
+  "en_mark": [
+   "€110 billion"
+  ],
+  "pt_mark": [
+   "€240 bilhões"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 139,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "11. The Future of the Euro",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a27",
+  "titulo": "“Finalmente aplicado” vira “finamente aplicado”",
+  "nota": "Falso cognato (finally → finamente = “com fineza”). Também se perdem o futuro e o “reformed”.",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "FALSE_FRIEND",
+  "tipo_rotulo": "Falso cognato",
+  "tipo_desc": "Palavra parecida, sentido outro.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "tragedy_euro",
+  "livro": "A tragédia do euro",
+  "autor": "Philipp Bagus",
+  "livro_en": "The Tragedy of the Euro",
+  "en": "The SGP will be reformed and finally enforced.",
+  "pt": "O Pacto de Estabilidade e Crescimento é finamente aplicado.",
+  "en_mark": [
+   "will be reformed and finally enforced"
+  ],
+  "pt_mark": [
+   "é finamente aplicado"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A tragédia do euro",
+    "edicao": "Instituto Ludwig von Mises Brasil",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 143,
+    "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/tragedia-do-euro.pdf"
+   },
+   "en": {
+    "titulo": "The Tragedy of the Euro",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/tragedy-euro",
+    "capitulo": "Conclusion",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a28",
+  "titulo": "Lei de 1895 vira lei de 1885",
+  "nota": "Ano da lei de educação obrigatória da Pensilvânia trocado.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "education_free",
+  "livro": "Educação livre e obrigatória",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "Education: Free and Compulsory",
+  "en": "The report complained that the Pennsylvania Compulsory Education Law of 1895 did not take effect in the city of Philadelphia, and recommended that it do so.",
+  "pt": "O relatório reclamou que a Lei de Educação Obrigatória da Pensilvânia de 1885 ainda não estava em vigor na cidade da Filadélfia, e recomendou que vigorasse.",
+  "en_mark": [
+   "Law of 1895"
+  ],
+  "pt_mark": [
+   "de 1885"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Educação livre e obrigatória",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Filipe Rangel Celeti",
+    "pagina_pdf": 50,
+    "pagina_url": "https://mises.org.br/livros/16667/educacao-livre-e-obrigatoria/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/educacao+livre+e+obrigatoria.pdf"
+   },
+   "en": {
+    "titulo": "Education: Free and Compulsory",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/education-free-and-compulsory",
+    "capitulo": "3. Compulsory Education in the United States",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a29",
+  "titulo": "“Meados de 1933” vira “meados de 1938”",
+  "nota": "Ano trocado numa citação sobre o New Deal.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "left_right",
+  "livro": "Esquerda e direita: perspectivas para a liberdade",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "Left, Right, and the Prospects for Liberty",
+  "en": "Dutt effectively concluded with a quote from an editor of the highly respected Current History Magazine: “The new America (the editor had written in mid-1933) will not be capitalist in the old sense, nor will it be Socialist.",
+  "pt": "Dutt conclui convincentemente, citando palavras de um editor do conceituado Current History Magazine: “A nova América (escrevia esse editor em meados de 1938) não será capitalista no velho sentido, e tampouco será socialista.",
+  "en_mark": [
+   "mid-1933"
+  ],
+  "pt_mark": [
+   "meados de 1938"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Esquerda e direita: perspectivas para a liberdade",
+    "edicao": "Instituto Liberal / Instituto Ludwig von Mises Brasil, 3ª ed.",
+    "tradutor": "Maria Luiza X. de A. Borges",
+    "pagina_pdf": 28,
+    "pagina_url": "https://mises.org.br/livros/16676/esquerda-e-direita-perspectivas-para-a-liberdade/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/esquerdaedireita.pdf"
+   },
+   "en": {
+    "titulo": "Left, Right, and the Prospects for Liberty",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/left-right-and-prospects-liberty",
+    "capitulo": "Left and Right: The Prospects for Liberty",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a30",
+  "titulo": "Defence of Usury de Bentham: 1787 vira 1781",
+  "nota": "Data de publicação trocada.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 1,
+  "gravidade_rotulo": "Trivial",
+  "livro_chave": "liberalism",
+  "livro": "Liberalismo",
+  "autor": "Ludwig von Mises",
+  "livro_en": "Liberalism: The Classical Tradition",
+  "en": "David Hume, Essays Moral, Political, and Literary (1741 and 1742), and Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776), but especially Jeremy Bentham, numerous writings, beginning with Defence of Usury (1787), up to the Deontology, or the Science of Morality, published after his death in 1834.",
+  "pt": "David Hume, Essays, Moral, Political, and Literary (1741 e 1742) e Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776),1 mas especialmente Jeremy Bentham, numerosos trabalhos a começar por Defence of Usury (1781), até Deontology, ou The Science of Morality, publicado após sua morte, em 1834.",
+  "en_mark": [
+   "(1787)"
+  ],
+  "pt_mark": [
+   "(1781)"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Liberalismo",
+    "edicao": "Instituto Liberal / Instituto Ludwig von Mises Brasil, 2ª ed.",
+    "tradutor": "Haydn Coutinho Pimenta",
+    "pagina_pdf": 203,
+    "pagina_url": "https://mises.org.br/livros/16660/liberalismo/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/Liberalismo.pdf"
+   },
+   "en": {
+    "titulo": "Liberalism: The Classical Tradition",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/liberalism-classical-tradition",
+    "capitulo": "Appendix",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a31",
+  "titulo": "Número de patente com dígitos trocados",
+  "nota": "Citação de patente dos EUA: 5,443,036 vira 5.433.036.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 1,
+  "gravidade_rotulo": "Trivial",
+  "livro_chave": "against_ip",
+  "livro": "Contra a propriedade intelectual",
+  "autor": "N. Stephan Kinsella",
+  "livro_en": "Against Intellectual Property",
+  "en": "No. 5,443,036, Aug. 22, 1995 (shining a laser light onto the floor to fascinate a cat and cause it to chase the light);",
+  "pt": "N. 5.433.036, 22 de Ago., 1995 (brilhar um laser no chão para fascinar o gato e fazer com que ele siga a luz);",
+  "en_mark": [
+   "5,443,036"
+  ],
+  "pt_mark": [
+   "5.433.036"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Contra a propriedade intelectual",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2010",
+    "tradutor": "Rafael Hotz (rev.: Paulo Cossari)",
+    "pagina_pdf": 53,
+    "pagina_url": "https://mises.org.br/livros/16669/contra-a-propriedade-intelectual/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/Contra+a+Propriedade+Intelectual.pdf"
+   },
+   "en": {
+    "titulo": "Against Intellectual Property",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/against-intellectual-property",
+    "capitulo": "Appendix",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a32",
+  "titulo": "“Isso não é de modo algum o caso” vira “isso, em absoluto, irá ocorrer”",
+  "nota": "Sem palavra de negação, a frase em português se lê como afirmação de que as instituições socialistas surgirão naturalmente das capitalistas, justamente o que Mises nega. (“Em absoluto” em português europeu reforça uma negação, mas aqui não há negação.)",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "POLARITY",
+  "tipo_rotulo": "Polaridade invertida",
+  "tipo_desc": "Negação perdida: o texto afirma o que o autor nega.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "mises_calc",
+  "livro": "O cálculo econômico sob o socialismo",
+  "autor": "Ludwig von Mises",
+  "livro_en": "Economic Calculation in the Socialist Commonwealth",
+  "en": "This is not at all the case.",
+  "pt": "Mas isso, em absoluto, irá ocorrer.",
+  "en_mark": [
+   "This is not at all the case."
+  ],
+  "pt_mark": [
+   "Mas isso, em absoluto, irá ocorrer."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "O cálculo econômico sob o socialismo",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Leandro Augusto Gomes Roque",
+    "pagina_pdf": 49,
+    "pagina_url": "https://mises.org.br/livros/16666/o-calculo-economico-sob-o-socialismo/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/O+calculo+economico+sob+socialismo.pdf"
+   },
+   "en": {
+    "titulo": "Economic Calculation in the Socialist Commonwealth",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/economic-calculation-socialist-commonwealth",
+    "capitulo": "5. The Most Recent Socialist Doctrines and the Problem of Economic Calculation",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a33",
+  "titulo": "“Duplo padrão sexual” perde o “sexual”",
+  "nota": "Sobre vítimas de estupro tratadas como culpadas. Sem “sexual”, a frase vira uma censura genérica a “pesos e medidas” e some o argumento.",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "DROPPED_QUALIFIER",
+  "tipo_rotulo": "Qualificador omitido",
+  "tipo_desc": "Uma palavra-chave some e a frase perde o ponto.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "for_new_liberty",
+  "livro": "Por uma nova liberdade: o manifesto libertário",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "For a New Liberty",
+  "en": "Clearly, an impermissible sexual double standard has been at work.",
+  "pt": "Claramente, uma duplicidade de pesos e medidas inadmissível vem sendo posta em prática.",
+  "en_mark": [
+   "sexual double standard"
+  ],
+  "pt_mark": [
+   "uma duplicidade de pesos e medidas inadmissível"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Por uma nova liberdade: o manifesto libertário",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013",
+    "tradutor": "Rafael de Sales Azevedo (rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 128,
+    "pagina_url": "https://mises.org.br/livros/16663/por-uma-nova-liberdade-o-manifesto-libertario/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/Manifesto+Libertario+-+Rothbard%2C+Murray+N.pdf"
+   },
+   "en": {
+    "titulo": "For a New Liberty",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/new-liberty-libertarian-manifesto",
+    "capitulo": "6. Personal Liberty",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a34",
+  "titulo": "“Sujeito da história” vira “assunto que a história devia abordar”",
+  "nota": "Em inglês, subject é o agente da história (o grupo, não os indivíduos). O português usa “assunto” (tema).",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "MISTRANSLATION",
+  "tipo_rotulo": "Erro de tradução",
+  "tipo_desc": "Palavra ou construção traduzida com outro significado.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "theory_history",
+  "livro": "Teoria e história",
+  "autor": "Ludwig von Mises",
+  "livro_en": "Theory and History",
+  "en": "As they see it, not individuals but the group is the subject of history.",
+  "pt": "Em seu ponto de vista, o assunto que a história devia abordar era o grupo, e não os indivíduos.",
+  "en_mark": [
+   "the group is the subject of history"
+  ],
+  "pt_mark": [
+   "o assunto que a história devia abordar era o grupo"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Teoria e história",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2014",
+    "tradutor": "Rafael de Sales Azevedo (rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 143,
+    "pagina_url": "https://mises.org.br/livros/16673/teoria-e-historia/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/teoriaehistoria.pdf"
+   },
+   "en": {
+    "titulo": "Theory and History",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/theory-and-history-interpretation-social-and-economic-evolution",
+    "capitulo": "Chapter 9. The Concept of Historical Individuality",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a35",
+  "titulo": "“Prova demais” vira “já é bastante revelador”",
+  "nota": "“It proves far too much” é uma objeção lógica clássica (o argumento levaria a conclusões absurdas). A tradução troca por um comentário sem sentido lógico.",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "IDIOM",
+  "tipo_rotulo": "Expressão idiomática",
+  "tipo_desc": "Idioma traduzido de modo a perder o argumento.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "power_market",
+  "livro": "Governo e mercado",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "Power and Market",
+  "en": "Moreover, the argument is hardly unique to the minting business; it proves far too much.",
+  "pt": "Além disso, o argumento não é exclusivo para a cunhagem. Isso já é bastante revelador.",
+  "en_mark": [
+   "it proves far too much"
+  ],
+  "pt_mark": [
+   "Isso já é bastante revelador."
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Governo e mercado",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Márcia Xavier de Brito e Alessandra Lass (rev. técnica: Ubiratan Iorio e Alex Catharino)",
+    "pagina_pdf": 102,
+    "pagina_url": "https://mises.org.br/livros/16680/governo-e-mercado/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/Governo+e+Mercado.pdf"
+   },
+   "en": {
+    "titulo": "Power and Market",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/power-and-market-government-and-economy",
+    "capitulo": "Chapter 3—Triangular Intervention",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a36",
+  "titulo": "“Monetary cranks” (excêntricos monetários) vira “defendem zelosamente medidas não ortodoxas”",
+  "nota": "O termo pejorativo de Mises é neutralizado.",
+  "ressalva": "A edição em português segue a 3ª edição revista (Regnery); a edição em inglês usada aqui é a de 1949/Scholar’s. Diferenças de edição podem explicar parte do trecho.",
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "MEANING_SHIFT",
+  "tipo_rotulo": "Mudança de sentido",
+  "tipo_desc": "O texto diz algo diferente do original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "human_action",
+  "livro": "Ação humana: um tratado de economia",
+  "autor": "Ludwig von Mises",
+  "livro_en": "Human Action",
+  "en": "There are men who are commonly stigmatized as monetary cranks. The monetary crank suggests a method for making everybody prosperous by monetary measures.",
+  "pt": "Há pessoas que defendem zelosamente medidas monetárias não ortodoxas, confiantes em que tais medidas farão com que todos prosperem.",
+  "en_mark": [
+   "commonly stigmatized as monetary cranks"
+  ],
+  "pt_mark": [
+   "Há pessoas que defendem zelosamente medidas monetárias não ortodoxas"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Ação humana: um tratado de economia",
+    "edicao": "Instituto Ludwig von Mises Brasil, 3.1ª ed. (baseada na 3ª ed. revista, Regnery)",
+    "tradutor": "Donald Stewart Jr. (rev.: Tatiana Gabbi)",
+    "pagina_pdf": 231,
+    "pagina_url": "https://mises.org.br/livros/16658/acao-humana-um-tratado-de-economia/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/a%C3%A7%C3%A3oo+Humana+-+Um+Tratado+de+Economia.pdf"
+   },
+   "en": {
+    "titulo": "Human Action",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/human-action",
+    "capitulo": "IX. The Role of Ideas",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a37",
+  "titulo": "“Nos anos 1960” vira “nos anos de 1970”",
+  "nota": "Década trocada. Edição em português de Portugal hospedada pelo Mises Brasil, comparada via tradução inglesa do IEA.",
+  "ressalva": null,
+  "familia": "numeros",
+  "familia_rotulo": "Números e unidades",
+  "tipo": "NUMERIC_ERROR",
+  "tipo_rotulo": "Número ou data trocados",
+  "tipo_desc": "Valor, ano ou citação numérica diferente do original.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "huerta_socialism",
+  "livro": "Socialismo, cálculo econômico e função empresarial",
+  "autor": "Jesús Huerta de Soto",
+  "livro_en": "Socialism, Economic Calculation and Entrepreneurship",
+  "en": "First, this model had a large group of defenders, particularly in the 1960s, who attempted to justify their positions with a series of theoretical arguments which in essence closely resembled those underlying the “market socialism” model, and which went virtually unanswered at the time.",
+  "pt": "Em primeiro lugar, este modelo teve um grande grupo de defensores, especialmente nos anos de 1970, que tentou justificar as suas posições com base em argumentos teóricos que, na sua essência, eram muito semelhantes aos que fundamentam o modelo do «socialismo de mercado» e que, nessa altura, eram praticamente incontestáveis.",
+  "en_mark": [
+   "1960s"
+  ],
+  "pt_mark": [
+   "anos de 1970"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "Socialismo, cálculo econômico e função empresarial",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2013 (tradução do espanhol, português de Portugal)",
+    "tradutor": "não consta no PDF",
+    "pagina_pdf": 28,
+    "pagina_url": "https://mises.org.br/livros/16690/socialismo-calculo-economico-e-funcao-empresarial/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/Socialismo%2C+C%C3%A1lculo+Econ%C3%B4mico+e+Fun%C3%A7%C3%A3o+Empresarial.pdf"
+   },
+   "en": {
+    "titulo": "Socialism, Economic Calculation and Entrepreneurship",
+    "edicao": "Tradução inglesa (Edward Elgar), edição gratuita do IEA",
+    "url": "https://iea.org.uk/wp-content/uploads/2016/07/HUERTA%20EBOOK.pdf",
+    "capitulo": null,
+    "pagina_pdf": 18
+   }
+  }
+ },
+ {
+  "id": "a38",
+  "titulo": "“Caiu entre duas cadeiras” vira “perdeu uma oportunidade”",
+  "nota": "Idioma desfeito: o argumento (o monetarismo ficou sem apoio dos dois lados) se perde.",
+  "ressalva": null,
+  "familia": "sentido",
+  "familia_rotulo": "Sentido alterado",
+  "tipo": "IDIOM",
+  "tipo_rotulo": "Expressão idiomática",
+  "tipo_desc": "Idioma traduzido de modo a perder o argumento.",
+  "gravidade": 2,
+  "gravidade_rotulo": "Menor",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "In this way, monetarism fell between two stools.",
+  "pt": "Assim, o monetarismo perdeu uma oportunidade.",
+  "en_mark": [
+   "fell between two stools"
+  ],
+  "pt_mark": [
+   "perdeu uma oportunidade"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 26,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "Introduction to the Fourth Edition",
+    "pagina_pdf": null
+   }
+  }
+ },
+ {
+  "id": "a39",
+  "titulo": "“Bills” traduzido como “Notas” 53 vezes",
+  "nota": "Os ativos do Fed “Bills Discounted” e “Bills Bought” (papéis descontados e aceitações) viram “Notas Descontadas” (25×) e “Notas Compradas” (28×). “Notas” soa como cédulas. Recorre nos capítulos estatísticos centrais do livro.",
+  "ressalva": null,
+  "familia": "terminologia",
+  "familia_rotulo": "Terminologia",
+  "tipo": "TERMINOLOGY",
+  "tipo_rotulo": "Terminologia",
+  "tipo_desc": "Termo técnico traduzido de forma enganosa.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
+  "livro_chave": "agd",
+  "livro": "A grande depressão americana",
+  "autor": "Murray N. Rothbard",
+  "livro_en": "America's Great Depression",
+  "en": "Bills Discounted ($446 million) and Bills Bought",
+  "pt": "Notas Descontadas (US$ 446 milhões) e as Notas Compradas",
+  "en_mark": [
+   "Bills Discounted",
+   "Bills Bought"
+  ],
+  "pt_mark": [
+   "Notas Descontadas",
+   "Notas Compradas"
+  ],
+  "fonte": {
+   "pt": {
+    "titulo": "A grande depressão americana",
+    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
+    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
+    "pagina_pdf": 144,
+    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
+   },
+   "en": {
+    "titulo": "America's Great Depression",
+    "edicao": "Mises Institute (EPUB)",
+    "url": "https://mises.org/library/book/americas-great-depression",
+    "capitulo": "4. The Inflationary Factors",
+    "pagina_pdf": null
+   }
+  }
+ }
+]

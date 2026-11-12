@@ -1,0 +1,110 @@
+{
+ "gerado": "2026-11-12",
+ "achados": 39,
+ "livros": 55,
+ "livros_comparados": 33,
+ "palavras_total": 3486233,
+ "palavras_comparadas": 2453548,
+ "tipos": {
+  "CONCEPT_INJECTION": {
+   "familia": "acrescimo",
+   "rotulo": "Conceito inserido",
+   "desc": "A tradução afirma algo que o autor não afirma naquele ponto."
+  },
+  "POLEMIC_INSERTION": {
+   "familia": "acrescimo",
+   "rotulo": "Opinião inserida",
+   "desc": "Frases novas, em tom editorial, na voz do autor."
+  },
+  "DIDACTIC_PADDING": {
+   "familia": "acrescimo",
+   "rotulo": "Explicação acrescentada",
+   "desc": "Frase ou parágrafo explicativo sem correspondente no original."
+  },
+  "UPDATE_INSERTION": {
+   "familia": "acrescimo",
+   "rotulo": "Atualização não marcada",
+   "desc": "Fatos ou figuras posteriores ao livro, sem aviso."
+  },
+  "ANACHRONISM": {
+   "familia": "acrescimo",
+   "rotulo": "Anacronismo",
+   "desc": "Termo ou ideia que não existia quando o livro foi escrito."
+  },
+  "MEANING_SHIFT": {
+   "familia": "sentido",
+   "rotulo": "Mudança de sentido",
+   "desc": "O texto diz algo diferente do original."
+  },
+  "MISTRANSLATION": {
+   "familia": "sentido",
+   "rotulo": "Erro de tradução",
+   "desc": "Palavra ou construção traduzida com outro significado."
+  },
+  "POLARITY": {
+   "familia": "sentido",
+   "rotulo": "Polaridade invertida",
+   "desc": "Negação perdida: o texto afirma o que o autor nega."
+  },
+  "DROPPED_QUALIFIER": {
+   "familia": "sentido",
+   "rotulo": "Qualificador omitido",
+   "desc": "Uma palavra-chave some e a frase perde o ponto."
+  },
+  "FALSE_FRIEND": {
+   "familia": "sentido",
+   "rotulo": "Falso cognato",
+   "desc": "Palavra parecida, sentido outro."
+  },
+  "IDIOM": {
+   "familia": "sentido",
+   "rotulo": "Expressão idiomática",
+   "desc": "Idioma traduzido de modo a perder o argumento."
+  },
+  "NUMERIC_ERROR": {
+   "familia": "numeros",
+   "rotulo": "Número ou data trocados",
+   "desc": "Valor, ano ou citação numérica diferente do original."
+  },
+  "UNIT_ERROR": {
+   "familia": "numeros",
+   "rotulo": "Unidade errada",
+   "desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido)."
+  },
+  "UNMARKED_LOCALISATION": {
+   "familia": "numeros",
+   "rotulo": "Conversão não marcada",
+   "desc": "Medida adaptada ao leitor sem nota do tradutor."
+  },
+  "TERMINOLOGY": {
+   "familia": "terminologia",
+   "rotulo": "Terminologia",
+   "desc": "Termo técnico traduzido de forma enganosa."
+  }
+ },
+ "familias": {
+  "acrescimo": {
+   "rotulo": "Acréscimo sem origem",
+   "desc": "O português tem frases que não existem no original."
+  },
+  "sentido": {
+   "rotulo": "Sentido alterado",
+   "desc": "A frase existe, mas diz outra coisa."
+  },
+  "numeros": {
+   "rotulo": "Números e unidades",
+   "desc": "Datas, valores e medidas que não batem com o original."
+  },
+  "terminologia": {
+   "rotulo": "Terminologia",
+   "desc": "Termos técnicos que enganam o leitor."
+  }
+ },
+ "gravidade": {
+  "1": "Trivial",
+  "2": "Menor",
+  "3": "Moderado",
+  "4": "Grave",
+  "5": "Grotesco"
+ }
+}

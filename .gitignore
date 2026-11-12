@@ -1,4 +1,4 @@
-data/
-work*/
-.venv/
+/data/
+/work*/
+/.venv/
 __pycache__/
