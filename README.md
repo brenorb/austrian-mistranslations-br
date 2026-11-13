@@ -39,7 +39,7 @@ became 62 words in Portuguese.
 | `scripts/11_lexicon.py` | concept-injection detector (store of value, fiat, electronic…) |
 | `scripts/14_distort.py` | second pass: numbers / negation / quantifier / semantic-divergence detectors on every aligned sentence |
 | `scripts/16_quotes.py` | quotation audit for Brazilian originals (quotes vs. English texts held) |
-| `scripts/12_summary.py`, `13_findings.py`, `15_coverage.py` | summary table, curated findings (39), coverage of all 52 books (`results/corpus_coverage.csv`) |
+| `scripts/12_summary.py`, `13_findings.py`, `15_coverage.py` | summary table, curated findings (37), coverage of all 52 books (`results/corpus_coverage.csv`) |
 | `data/` (git-ignored) | downloaded PDFs/EPUBs and text; `data/tweet/` has the tweet images |
 | `work5/` (git-ignored) | embeddings, beads.json, flags.json per pair; `work_old/` = superseded runs |
 

@@ -93,7 +93,7 @@ No sentence in the English book matches either (best cosine anywhere: 0.54–0.5
 | # | Passage (PT) | What changed | Sev. |
 |---|---|---|:-:|
 | 4.4a | *"Toda e qualquer demanda por dinheiro ocorre porque as pessoas podem utilizar aquele bem para calcular preços."* | New sentence generalising demand for money to price-calculation; shifts the emphasis of the regression-theorem passage | 4 |
-| 4.4b | Chapter IV opening: *"Desde que o Ocidente abandonou o padrão-ouro clássico… em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior…"* | Three new sentences before Rothbard's text begins | 4 |
+| 4.4b | Chapter IV opening: *"Desde que o Ocidente abandonou o padrão-ouro clássico… em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior…"* | Three sentences before Rothbard's text begins; not in the 2024 EPUB nor in the Mises.org online edition (both open with "Since the first edition of this book was written…"). May come from an edition we could not check | 3 |
 | 4.4c | *"A Europa já está prestes a adotar um papel-moeda único… área de livre comércio – que será chamada de Comunidade Econômica Europeia (CEE)"* | EN: "seems on the verge of success… a free-trade European Economic Community (EEC) necessarily requires an overarching bureaucracy". PT turns a hedge into an assertion, turns a claim about the EEC into a naming statement, adds a sentence | 3 |
 | 4.4d | *"…são incapazes de perceber a importância deste explícito privilégio estatal que protegia os bancos…"* | EN: "fail to realize the importance of this clear dereliction of duty by the states". A different claim (legal privilege vs dereliction of duty) | 3 |
 | 4.4e | *"A figura abaixo mostra a evolução do índice de preços ao consumidor… A partir de Bretton Woods, em 1944, já começa a haver uma aceleração…"* | Figure reference and interpretation not in the English | 2 |
@@ -110,15 +110,15 @@ Examples with no English counterpart (best match 0.55–0.68 cosine, all differe
 
 ## 4b. Same-length distortions (second pass over every aligned sentence)
 
-Length inflation misses errors that keep a sentence's size. For all 28 EN→PT alignments (≈2.3 M Portuguese words) `scripts/14_distort.py` compares every 1-1 / 1-2 / 2-1 aligned pair for: numbers present on one side only (with footnote marks and mil/milhões/bilhões normalised), negation present on one side only, dropped "only/always/never", and low cross-lingual similarity between similar-length sentences. Hits were then read in context (≈250 read, 39 kept after verification). Hedge/modal detectors were too noisy ("can" vs "pode") and are not reported.
+Length inflation misses errors that keep a sentence's size. For all 28 EN→PT alignments (≈2.3 M Portuguese words) `scripts/14_distort.py` compares every 1-1 / 1-2 / 2-1 aligned pair for: numbers present on one side only (with footnote marks and mil/milhões/bilhões normalised), negation present on one side only, dropped "only/always/never", and low cross-lingual similarity between similar-length sentences. Hits were then read in context (≈250 read, 37 kept after verification). Conversions that are arithmetically correct (bushels → gallons ×8; bales → tonnes at ≈218 kg; 8 fl oz → 250 ml) are not counted as errors. Hedge/modal detectors were too noisy ("can" vs "pode") and are not reported.
 
 | Book | Source → Portuguese | Type | Sev. |
 |---|---|---|:-:|
-| A grande depressão americana | "200 million more **bushels**" → "1,6 bilhão de **galões** de trigo" | unit | 4 |
-| idem | "1.25 million **bales**" of cotton → "280 **milhões de toneladas** de algodão" (elsewhere "280 mil toneladas" for the same quantity; 850,000 bales → "185 mil toneladas") | unit / ×1000 | 5 |
+| idem | "1.25 million **bales**" of cotton → "280 **milhões de toneladas** de algodão". Converting bales to tonnes is fine (the book uses ≈218 kg/bale: 3.5 M → 760 mil t, 850,000 → 185 mil t); correct value is ≈272 mil toneladas | unit / ×1000 | 5 |
 | idem | "1921–1933 period" → "1921 a **1923**"; "$64.72 billion" → "US$ **64,27** bilhões" (contradicting its own "3,5 bilhões" fall); "56.1 percent" → "**51,6%**" | numeric | 2–3 |
 | idem | "monetarism fell between two stools" → "perdeu uma oportunidade" | idiom | 2 |
-| O que o governo fez… | "a 1/2 inch bolt must get a 1/2 inch bolt and not a mere 3/8 inch" → "um parafuso de 12,7 milímetros (1/2 polegada) deve obter um parafuso de exatamente **12,7 centímetros**, e não um de 9,5 milímetros" | unit | 5 |
+| O que o governo fez… | "a 1/2 inch bolt must get a 1/2 inch bolt and not a mere 3/8 inch" → "um parafuso de 12,7 milímetros (1/2 polegada) deve obter um parafuso de exatamente **12,7 centímetros**, e não um de 9,5 milímetros" (the conversion was unnecessary: bolts are sized in inches) | unit | 5 |
+| idem | "the meat packer sells a **pound** of beef" → "o açougueiro vende um **quilo** de carne" (1 lb ≈ 454 g) | unit | 3 |
 | A tragédia do euro | "€144 billion exposure to Greece, but €507 billion to Spain" → "**€206** bilhões … **€727** bilhões"; five following sentences changed by the same ×1.43 (344→493, 324→465, 173→248, 141→202, 77→110) with the € kept | numeric | 5 |
 | idem | "The €110 billion granted to Greece" → "Os **€240** bilhões dados à Grécia" (the same text says 110 bilhões elsewhere) | numeric | 4 |
 | idem | "will be reformed and **finally** enforced" → "é **finamente** aplicado" | false friend | 3 |

@@ -10,16 +10,6 @@
   "achados": 14
  },
  {
-  "slug": "a-grande-depressao-americana",
-  "titulo": "A grande depressão americana",
-  "palavras": 148372,
-  "status": "ALIGNED_AND_SCANNED",
-  "status_rotulo": "Comparado com a fonte",
-  "evidencia": "Comparado com o original: America's Great Depression",
-  "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
-  "achados": 8
- },
- {
   "slug": "a-tragedia-do-euro",
   "titulo": "A Tragédia do Euro",
   "palavras": 70012,
@@ -28,6 +18,16 @@
   "evidencia": "Comparado com o original: The Tragedy of the Euro",
   "pagina_url": "https://mises.org.br/livros/16684/a-tragedia-do-euro/",
   "achados": 7
+ },
+ {
+  "slug": "a-grande-depressao-americana",
+  "titulo": "A grande depressão americana",
+  "palavras": 148372,
+  "status": "ALIGNED_AND_SCANNED",
+  "status_rotulo": "Comparado com a fonte",
+  "evidencia": "Comparado com o original: America's Great Depression",
+  "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
+  "achados": 6
  },
  {
   "slug": "acao-humana-um-tratado-de-economia",

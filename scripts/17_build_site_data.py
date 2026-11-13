@@ -77,7 +77,9 @@ findings_in = json.loads((root / "findings.json").read_text())
 out = []
 for idx, f in enumerate(findings_in):
     cur = CUR[idx]; book = f["book"]; B = BOOKS[book]; pair = pairs[book]
-    fam, tlabel, tdesc = TYPES[f["category"]]
+    if cur.get("skip"): continue                      # revisão: conversão correta, não é erro
+    cat, sev = cur.get("categoria", f["category"]), cur.get("sev", f["severity"])
+    fam, tlabel, tdesc = TYPES[cat]
     en, pt = clean_ctx(f["en"] or ""), clean_ctx(f["pt"] or "")
     def trim_tail(text, marks):
         """remove fragmento final sem pontuação (ex.: título de seção colado pelo PDF) depois do último destaque"""
@@ -113,8 +115,8 @@ for idx, f in enumerate(findings_in):
         if m not in en: print(f"[aviso] #{idx} destaque EN ausente:", m[:60])
     out.append(dict(
         id=f"a{idx+1:02d}", titulo=cur["titulo"], nota=cur["nota"], ressalva=cur.get("ressalva"),
-        familia=fam, familia_rotulo=FAMILIES[fam]["rotulo"], tipo=f["category"], tipo_rotulo=tlabel, tipo_desc=tdesc,
-        gravidade=f["severity"], gravidade_rotulo=SEVERITY[f["severity"]],
+        familia=fam, familia_rotulo=FAMILIES[fam]["rotulo"], tipo=cat, tipo_rotulo=tlabel, tipo_desc=tdesc,
+        gravidade=sev, gravidade_rotulo=SEVERITY[sev],
         livro_chave=book, livro=B["pt_titulo"], autor=B["autor"], livro_en=B["en_titulo"],
         en=en, pt=pt, en_mark=cur["en_mark"], pt_mark=cur["pt_mark"],
         fonte=dict(
@@ -122,7 +124,7 @@ for idx, f in enumerate(findings_in):
                     pagina_url=mr["page"], pdf_url=mr["files"][0] if mr.get("files") else None),
             en=dict(titulo=B["en_titulo"], edicao=B["en_ed"], url=B["en_url"], capitulo=en_loc, pagina_pdf=en_page)),
     ))
-    print(f"{out[-1]['id']} {book:16s} sev{f['severity']} {tlabel:26s} PT p.{page} | EN {en_loc or en_page}")
+    print(f"{out[-1]['id']} {book:16s} sev{sev} {tlabel:26s} PT p.{page} | EN {en_loc or en_page}")
 
 # ---------- cobertura ----------
 cov = list(csv.DictReader(open(root / "results/corpus_coverage.csv")))

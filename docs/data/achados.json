@@ -207,16 +207,16 @@
  },
  {
   "id": "a06",
-  "titulo": "O capítulo IV abre com três frases que não são de Rothbard",
-  "nota": "Antes do texto de Rothbard, o português insere: “desde que o Ocidente abandonou o padrão-ouro clássico em 1914, o sistema monetário internacional vem oscilando entre um sistema ruim e outro pior…”. Voz editorial, sem marcação.",
-  "ressalva": null,
+  "titulo": "A abertura do capítulo IV não tem equivalente nas edições em inglês consultadas",
+  "nota": "Antes do texto de Rothbard, o português traz três frases sobre o sistema monetário desde 1914 (“vem oscilando entre um sistema ruim e outro pior… câmbios fixos… sistema amorfo”). Nem o EPUB do Mises Institute (2024) nem a versão online do Mises.org, que numera o capítulo como IV, têm essas frases: ambos abrem com “Since the first edition of this book was written, the chickens of the monetary interventionalists have come home to roost…”.",
+  "ressalva": "O trecho pode vir de uma edição que não conseguimos consultar, ou de outro texto do autor. Só afirmamos que não está nas duas edições em inglês que verificamos.",
   "familia": "acrescimo",
   "familia_rotulo": "Acréscimo sem origem",
-  "tipo": "POLEMIC_INSERTION",
-  "tipo_rotulo": "Opinião inserida",
-  "tipo_desc": "Frases novas, em tom editorial, na voz do autor.",
-  "gravidade": 4,
-  "gravidade_rotulo": "Grave",
+  "tipo": "DIDACTIC_PADDING",
+  "tipo_rotulo": "Explicação acrescentada",
+  "tipo_desc": "Frase ou parágrafo explicativo sem correspondente no original.",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
   "livro_chave": "whgd",
   "livro": "O que o governo fez com o nosso dinheiro?",
   "autor": "Murray N. Rothbard",
@@ -662,51 +662,9 @@
   }
  },
  {
-  "id": "a17",
-  "titulo": "200 milhões de bushels de trigo viram “1,6 bilhão de galões de trigo”",
-  "nota": "A unidade é convertida em silêncio para uma medida de líquido (galão), que não faz sentido para trigo. O número também muda por conversão (200 milhões × 8).",
-  "ressalva": null,
-  "familia": "numeros",
-  "familia_rotulo": "Números e unidades",
-  "tipo": "UNIT_ERROR",
-  "tipo_rotulo": "Unidade errada",
-  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
-  "gravidade": 4,
-  "gravidade_rotulo": "Grave",
-  "livro_chave": "agd",
-  "livro": "A grande depressão americana",
-  "autor": "Murray N. Rothbard",
-  "livro_en": "America's Great Depression",
-  "en": "Bravely, the GSC bought 200 million more bushels by mid-1931, but all to no avail.",
-  "pt": "Bravamente, o GSC comprou mais 1,6 bilhão de galões de trigo em meados de 1931, sem que isso adiantasse de nada.",
-  "en_mark": [
-   "200 million more bushels"
-  ],
-  "pt_mark": [
-   "1,6 bilhão de galões de trigo"
-  ],
-  "fonte": {
-   "pt": {
-    "titulo": "A grande depressão americana",
-    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
-    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
-    "pagina_pdf": 247,
-    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
-    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
-   },
-   "en": {
-    "titulo": "America's Great Depression",
-    "edicao": "Mises Institute (EPUB)",
-    "url": "https://mises.org/library/book/americas-great-depression",
-    "capitulo": "8. The Depression Begins: President Hoover Takes Command",
-    "pagina_pdf": null
-   }
-  }
- },
- {
   "id": "a18",
   "titulo": "1,25 milhão de fardos de algodão viram “280 milhões de toneladas”",
-  "nota": "“Bales” vira “toneladas” e o número muda por três ordens de grandeza em relação ao que o mesmo livro usa em outros pontos para a mesma quantidade (“280 mil toneladas”). 280 milhões de toneladas seria cerca de três vezes a produção mundial anual de algodão.",
+  "nota": "Converter fardos em toneladas é legítimo (o livro faz isso o tempo todo, com ≈ 218 kg por fardo: 3,5 milhões de fardos → 760 mil t; 2,1 milhões → 460 mil t). Aqui a conta está errada: 1,25 milhão de fardos são cerca de 272 mil toneladas, não 280 milhões. O erro é de três ordens de grandeza, e 280 milhões de toneladas seria cerca de três vezes a produção mundial anual de algodão.",
   "ressalva": null,
   "familia": "numeros",
   "familia_rotulo": "Números e unidades",
@@ -726,48 +684,6 @@
   ],
   "pt_mark": [
    "280 milhões de toneladas de algodão"
-  ],
-  "fonte": {
-   "pt": {
-    "titulo": "A grande depressão americana",
-    "edicao": "Instituto Ludwig von Mises Brasil, 1ª ed., 2012",
-    "tradutor": "Pedro Sette-Câmara (rev. técnica: Leandro Roque; rev. final: Fernando Fiori Chiocca)",
-    "pagina_pdf": 247,
-    "pagina_url": "https://mises.org.br/livros/16654/a-grande-depressao-americana/",
-    "pdf_url": "https://d3ptueit7w3f7j.cloudfront.net/Livros/A+Grande+Depressao_Americana.pdf"
-   },
-   "en": {
-    "titulo": "America's Great Depression",
-    "edicao": "Mises Institute (EPUB)",
-    "url": "https://mises.org/library/book/americas-great-depression",
-    "capitulo": "8. The Depression Begins: President Hoover Takes Command",
-    "pagina_pdf": null
-   }
-  }
- },
- {
-  "id": "a19",
-  "titulo": "Fardos de algodão convertidos em toneladas sem nota",
-  "nota": "“1.3 million bales” vira “280 mil toneladas”: unidade trocada e número que já não bate com as tabelas do original.",
-  "ressalva": null,
-  "familia": "numeros",
-  "familia_rotulo": "Números e unidades",
-  "tipo": "UNIT_ERROR",
-  "tipo_rotulo": "Unidade errada",
-  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
-  "gravidade": 3,
-  "gravidade_rotulo": "Moderado",
-  "livro_chave": "agd",
-  "livro": "A grande depressão americana",
-  "autor": "Murray N. Rothbard",
-  "livro_en": "America's Great Depression",
-  "en": "In early 1932, the Board then tried an heroic action—along with its 1.3 million bales, it obtained an agreement from southern bankers to withhold all of their cotton (3.5 million bales), while it continued to finance 2.1 million bales held by the coops.",
-  "pt": "No começo de 1932, o FFB tentou uma ação heroica – junto com suas 280 mil toneladas de algodão, conseguiu um acordo dos banqueiros do sul para que eles retivessem todo seu algodão (760 mil toneladas), enquanto continuava a financiar as 460 mil toneladas em poder das cooperativas.",
-  "en_mark": [
-   "1.3 million bales"
-  ],
-  "pt_mark": [
-   "280 mil toneladas de algodão"
   ],
   "fonte": {
    "pt": {
@@ -916,7 +832,7 @@
  {
   "id": "a23",
   "titulo": "O mesmo parafuso tem 12,7 milímetros e 12,7 centímetros na mesma frase",
-  "nota": "Inglês: “quem compra um parafuso de 1/2 polegada deve receber um de 1/2 polegada e não um de 3/8”. Português: “12,7 milímetros (1/2 polegada) … um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros”. O parafuso passa a ser dez vezes maior no meio da frase.",
+  "nota": "Inglês: “quem compra um parafuso de 1/2 polegada deve receber um de 1/2 polegada e não um de 3/8”. Português: “12,7 milímetros (1/2 polegada) … um parafuso de exatamente 12,7 centímetros, e não um de 9,5 milímetros”. O parafuso passa a ser dez vezes maior no meio da frase. A conversão nem era necessária: parafusos são medidos em polegadas.",
   "ressalva": null,
   "familia": "numeros",
   "familia_rotulo": "Números e unidades",
@@ -958,16 +874,16 @@
  },
  {
   "id": "a24",
-  "titulo": "“Frasco de 8 onças” vira “250 mililitros” sem nota",
-  "nota": "Medida adaptada ao leitor brasileiro (8 fl oz ≈ 237 ml) sem nota do tradutor; a mesma passagem converte libras em quilos.",
+  "titulo": "“Uma libra de carne” vira “um quilo de carne”",
+  "nota": "Inglês: “the meat packer sells a pound of beef”. Português: “o açougueiro vende um quilo de carne”. Uma libra tem cerca de 454 g, então a quantidade mais que dobra. (O “frasco de 8 onças” virar “250 mililitros” é um arredondamento aceitável de 237 ml.)",
   "ressalva": null,
   "familia": "numeros",
   "familia_rotulo": "Números e unidades",
-  "tipo": "UNMARKED_LOCALISATION",
-  "tipo_rotulo": "Conversão não marcada",
-  "tipo_desc": "Medida adaptada ao leitor sem nota do tradutor.",
-  "gravidade": 2,
-  "gravidade_rotulo": "Menor",
+  "tipo": "UNIT_ERROR",
+  "tipo_rotulo": "Unidade errada",
+  "tipo_desc": "Unidade convertida ou trocada sem aviso (e às vezes sem sentido).",
+  "gravidade": 3,
+  "gravidade_rotulo": "Moderado",
   "livro_chave": "whgd",
   "livro": "O que o governo fez com o nosso dinheiro?",
   "autor": "Murray N. Rothbard",
@@ -975,10 +891,10 @@
   "en": "The drug store sells an eight ounce bottle of medicine; the meat packer sells a pound of beef.",
   "pt": "A farmácia vende um frasco de 250 mililitros de remédio; o açougueiro vende um quilo de carne.",
   "en_mark": [
-   "eight ounce bottle"
+   "a pound of beef"
   ],
   "pt_mark": [
-   "250 mililitros"
+   "um quilo de carne"
   ],
   "fonte": {
    "pt": {
