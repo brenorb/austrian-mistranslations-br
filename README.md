@@ -4,7 +4,7 @@ Site estático para explorar problemas de tradução em livros da Escola Austrí
 (edições gratuitas do Mises Brasil comparadas com os originais do Mises Institute). Cada achado tem **tipo**, **gravidade**
 e **fonte** (edição, página/capítulo e link nos dois idiomas).
 
-* **Site (GitHub Pages):** https://brenorb.github.io/austrian-mistranslations-br/  (publicado a partir de `docs/`)
+* **Site (GitHub Pages):** https://austrian-mistranslations.brenorb.com/  (publicado a partir de `docs/`)
 * **Relatório completo:** [REPORT.md](REPORT.md) · **Dados:** `docs/data/*.json`, `findings.json`, `results/`
 * **Rodar o site localmente:** `cd docs && python3 -m http.server 8000` e abrir http://localhost:8000
 * **Regenerar os dados do site:** `.venv/bin/python scripts/17_build_site_data.py` (curadoria em `scripts/site_curation.py`)
